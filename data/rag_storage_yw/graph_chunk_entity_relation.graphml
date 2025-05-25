@@ -1,0 +1,2433 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d10" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d9" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d8" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d7" for="edge" attr.name="description" attr.type="string" />
+  <key id="d6" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="义务教育教科书语文六年级上册">
+      <data key="d0">义务教育教科书语文六年级上册</data>
+      <data key="d1">category</data>
+      <data key="d2">《义务教育教科书语文六年级上册》是中华人民共和国教育部组织编写、人民教育出版社出版的义务教育阶段语文课程标准配套教材，包含七单元内容及语文园地、习作、口语交际等板块，适用于小学六年级学生。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教材结构">
+      <data key="d0">教材结构</data>
+      <data key="d1">category</data>
+      <data key="d2">教材包含七单元教学内容及语文园地、习作、口语交际等模块，形成完整的教学体系。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学实施">
+      <data key="d0">教学实施</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过分层教学设计、阅读与写作结合、课外拓展活动等方式实现教学目标。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="课程标准">
+      <data key="d0">课程标准</data>
+      <data key="d1">category</data>
+      <data key="d2">教材依据《义务教育语文课程标准》编写，符合国家教育政策与教学要求。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学目标">
+      <data key="d0">教学目标</data>
+      <data key="d1">category</data>
+      <data key="d2">教材旨在培养学生的语言运用能力、阅读理解能力、写作表达能力及文学素养。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="语文教育研究">
+      <data key="d0">语文教育研究</data>
+      <data key="d1">category</data>
+      <data key="d2">教材体现语文教育研究领域的最新成果，如情境教学法、阅读素养培养等。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教材评价">
+      <data key="d0">教材评价</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过多元评价体系促进学生语言能力与综合素质发展。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学资源">
+      <data key="d0">教学资源</data>
+      <data key="d1">category</data>
+      <data key="d2">教材配套资源包括课件、教学案例及课外阅读推荐书目。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="数字化教学">
+      <data key="d0">数字化教学</data>
+      <data key="d1">category</data>
+      <data key="d2">教材适配数字教学平台，支持线上线下混合式学习。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平">
+      <data key="d0">教育公平</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过统一标准促进教育公平，缩小区域与资源差距。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教师培训">
+      <data key="d0">教师培训</data>
+      <data key="d1">category</data>
+      <data key="d2">教材配套教师培训课程提升教师教学能力。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="学生发展">
+      <data key="d0">学生发展</data>
+      <data key="d1">category</data>
+      <data key="d2">教材关注学生语言能力、思维品质及文化意识的全面发展。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="课程创新">
+      <data key="d0">课程创新</data>
+      <data key="d1">category</data>
+      <data key="d2">教材体现课程创新理念，融入新科技、新方法促进教学革新。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育信息化">
+      <data key="d0">教育信息化</data>
+      <data key="d1">category</data>
+      <data key="d2">教材适应教育信息化趋势，促进信息技术与教学融合。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="综合素养">
+      <data key="d0">综合素养</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过多模块学习提升学生综合素养，包括思维、沟通、文化等能力。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育质量">
+      <data key="d0">教育质量</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过科学设计与持续优化提升教育质量。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育改革">
+      <data key="d0">教育改革</data>
+      <data key="d1">category</data>
+      <data key="d2">教材反映教育改革方向，推动教学理念与方法更新。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学反馈">
+      <data key="d0">教学反馈</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过教学反馈机制优化教学策略与内容。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学评估">
+      <data key="d0">教学评估</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过教学评估体系完善教学质量监控。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学研究">
+      <data key="d0">教学研究</data>
+      <data key="d1">category</data>
+      <data key="d2">教材支持教学研究，促进教师专业成长。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学文化">
+      <data key="d0">教学文化</data>
+      <data key="d1">category</data>
+      <data key="d2">教材传播中华优秀文化，培育学生文化认同与自信。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学伦理">
+      <data key="d0">教学伦理</data>
+      <data key="d1">category</data>
+      <data key="d2">教材强调教学伦理，倡导公正、尊重与责任感培养。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学情境">
+      <data key="d0">教学情境</data>
+      <data key="d1">category</data>
+      <data key="d2">教材创设真实教学情境，增强学习体验与互动。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学创新">
+      <data key="d0">教学创新</data>
+      <data key="d1">category</data>
+      <data key="d2">教材支持教学创新，激发教师与学生创造力。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学资源库">
+      <data key="d0">教学资源库</data>
+      <data key="d1">category</data>
+      <data key="d2">教材配套资源库涵盖课件、教学案例及评估工具。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学协作">
+      <data key="d0">教学协作</data>
+      <data key="d1">category</data>
+      <data key="d2">教材支持教师协同教学与资源共享。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学反思">
+      <data key="d0">教学反思</data>
+      <data key="d1">category</data>
+      <data key="d2">教材引导教师进行教学反思与持续改进。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教学共同体">
+      <data key="d0">教学共同体</data>
+      <data key="d1">category</data>
+      <data key="d2">教材构建教学共同体，促进教师专业发展与经验交流。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育生态">
+      <data key="d0">教育生态</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过多维度设计促进教育生态系统的完善。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育可持续发展">
+      <data key="d0">教育可持续发展</data>
+      <data key="d1">category</data>
+      <data key="d2">教材关注教育可持续发展，支持长远教学目标。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育全球化">
+      <data key="d0">教育全球化</data>
+      <data key="d1">category</data>
+      <data key="d2">教材融入国际化元素，拓展学生国际视野。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育现代化">
+      <data key="d0">教育现代化</data>
+      <data key="d1">category</data>
+      <data key="d2">教材推动教育现代化进程，适应新时代发展需求。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平实践">
+      <data key="d0">教育公平实践</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过统一标准与资源共享促进教育公平实践。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育质量提升">
+      <data key="d0">教育质量提升</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过科学设计与反馈机制提升教学质量。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育科研支持">
+      <data key="d0">教育科研支持</data>
+      <data key="d1">category</data>
+      <data key="d2">教材为教育科研提供基础与案例支持。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育政策实施">
+      <data key="d0">教育政策实施</data>
+      <data key="d1">category</data>
+      <data key="d2">教材落实国家教育政策，推进教育改革任务。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育影响力">
+      <data key="d0">教育影响力</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过内容与设计扩大教育影响力。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育评价体系">
+      <data key="d0">教育评价体系</data>
+      <data key="d1">category</data>
+      <data key="d2">教材构建科学的教育评价体系支持教学质量评估。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育技术应用">
+      <data key="d0">教育技术应用</data>
+      <data key="d1">category</data>
+      <data key="d2">教材融合教育技术提升教学效果与效率。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育创新实践">
+      <data key="d0">教育创新实践</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过创新实践支持教育模式革新。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育质量保障">
+      <data key="d0">教育质量保障</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过多维设计保障教育质量。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育研究协作">
+      <data key="d0">教育研究协作</data>
+      <data key="d1">category</data>
+      <data key="d2">教材支持教育研究协作与知识共享。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育文化传承">
+      <data key="d0">教育文化传承</data>
+      <data key="d1">category</data>
+      <data key="d2">教材传承中华优秀文化，增强文化认同感。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育价值观">
+      <data key="d0">教育价值观</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过教学内容传递正确的教育价值观。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育理念更新">
+      <data key="d0">教育理念更新</data>
+      <data key="d1">category</data>
+      <data key="d2">教材适应教育理念更新，支持教学方法革新。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平保障">
+      <data key="d0">教育公平保障</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过资源支持与公平实践保障教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育技术革新">
+      <data key="d0">教育技术革新</data>
+      <data key="d1">category</data>
+      <data key="d2">教材推动教育技术革新，支持智能化教学。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育生态平衡">
+      <data key="d0">教育生态平衡</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过多维设计促进教育生态平衡。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育可持续发展支持">
+      <data key="d0">教育可持续发展支持</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过教学设计支持教育可持续发展。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与质量">
+      <data key="d0">教育公平与质量</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过公平实践与质量保障平衡教育公平与质量。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育质量与创新">
+      <data key="d0">教育质量与创新</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过质量保障与创新实践支持教育质量与创新。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与技术">
+      <data key="d0">教育公平与技术</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过技术应用促进教育公平与质量提升。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育质量与文化">
+      <data key="d0">教育质量与文化</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过文化传承与质量保障促进教育发展。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与创新">
+      <data key="d0">教育公平与创新</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过公平实践与创新支持促进教育发展。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与评价">
+      <data key="d0">教育公平与评价</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过公平实践与评价体系保障教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与资源">
+      <data key="d0">教育公平与资源</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过资源共享促进教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与教师">
+      <data key="d0">教育公平与教师</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过教师培训与资源支持促进教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与学生">
+      <data key="d0">教育公平与学生</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过公平实践促进学生全面发展。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与社区">
+      <data key="d0">教育公平与社区</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过社区协作促进教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与家庭">
+      <data key="d0">教育公平与家庭</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过家校合作促进教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与政府">
+      <data key="d0">教育公平与政府</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过政府政策支持教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与国际">
+      <data key="d0">教育公平与国际</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过国际交流促进教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与科技">
+      <data key="d0">教育公平与科技</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过科技手段促进教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育公平与全球化">
+      <data key="d0">教育公平与全球化</data>
+      <data key="d1">category</data>
+      <data key="d2">教材通过全球化实践促进教育公平。"</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="老舍">
+      <data key="d0">老舍</data>
+      <data key="d1">person</data>
+      <data key="d2">中国现代著名作家，以散文《草原》闻名，作品展现蒙古族文化与自然景观的交融。</data>
+      <data key="d3">chunk-61d508a1763bc4ed52e9a5657bd71be5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="天涯碧草话斜阳">
+      <data key="d0">天涯碧草话斜阳</data>
+      <data key="d1">event</data>
+      <data key="d2">《天涯碧草话斜阳》是描写草原风情的课文，通过文字展现蒙汉人民深厚情谊的文学作品。</data>
+      <data key="d3">chunk-09111b7ed415f11bd45228bdd5ad7587</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="丁香结">
+      <data key="d0">丁香结</data>
+      <data key="d1">event</data>
+      <data key="d2">《丁香结》是描写丁香花的散文，作者通过丁香意象抒发对人生和情感的思考。</data>
+      <data key="d3">chunk-09111b7ed415f11bd45228bdd5ad7587</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="草原">
+      <data key="d0">草原</data>
+      <data key="d1">geo</data>
+      <data key="d2">草原是课文描述的核心地理环境，展现辽阔自然景观和蒙古族与汉族人民的交融场景。</data>
+      <data key="d3">chunk-09111b7ed415f11bd45228bdd5ad7587</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="丁香">
+      <data key="d0">丁香</data>
+      <data key="d1">category</data>
+      <data key="d2">丁香是属于植物类别的观赏花卉，具有独特香气和文化象征意义，常被用作文学意象。</data>
+      <data key="d3">chunk-09111b7ed415f11bd45228bdd5ad7587</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="蒙汉情深">
+      <data key="d0">蒙汉情深</data>
+      <data key="d1">category</data>
+      <data key="d2">蒙汉情深是描述民族间深厚感情的文化概念，体现不同民族的团结与交融。</data>
+      <data key="d3">chunk-09111b7ed415f11bd45228bdd5ad7587</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="红军">
+      <data key="d0">红军</data>
+      <data key="d1">organization</data>
+      <data key="d2">中国工农红军，是革命战争时期的军事组织，负责长征等重大历史任务。&lt;SEP&gt;红军是执行党领导的革命任务的武装力量，代表集体主义精神和革命信仰的实践者。</data>
+      <data key="d3">chunk-d3455fbf8f94d717947cde012c8a46bb&lt;SEP&gt;chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="中华人民共和国中央人民政府">
+      <data key="d0">中华人民共和国中央人民政府</data>
+      <data key="d1">organization</data>
+      <data key="d2">中华人民共和国中央人民政府是1949年中华人民共和国成立时的最高行政机构，主持开国大典等重大国家仪式，象征中国历史的新篇章。"&lt;SEP&gt;中华人民共和国中央人民政府是中华人民共和国的最高国家权力机关，在开国大典中负责宣布中华人民共和国成立。</data>
+      <data key="d3">chunk-0dcd1fccbd9fa7a558f761ba544e3366&lt;SEP&gt;chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="毛泽东">
+      <data key="d0">毛泽东</data>
+      <data key="d1">person</data>
+      <data key="d2">毛泽东是中华人民共和国中央人民政府主席，领导了开国大典的仪式并宣布新中国成立。</data>
+      <data key="d3">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="天安门广场">
+      <data key="d0">天安门广场</data>
+      <data key="d1">geo</data>
+      <data key="d2">天安门广场是开国大典的举行地点，呈丁字形布局，是北京最著名的地标性建筑之一。</data>
+      <data key="d3">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="开国大典">
+      <data key="d0">开国大典</data>
+      <data key="d1">event</data>
+      <data key="d2">开国大典是1949年10月1日中华人民共和国成立的庆典活动，标志着新中国的诞生。</data>
+      <data key="d3">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="中国人民解放军">
+      <data key="d0">中国人民解放军</data>
+      <data key="d1">organization</data>
+      <data key="d2">中国人民解放军是中华人民共和国的武装力量，在开国大典阅兵式中展示了军威。</data>
+      <data key="d3">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="林伯渠">
+      <data key="d0">林伯渠</data>
+      <data key="d1">person</data>
+      <data key="d2">林伯渠是中央人民政府秘书长，负责主持开国大典的典礼程序。</data>
+      <data key="d3">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="朱德">
+      <data key="d0">朱德</data>
+      <data key="d1">person</data>
+      <data key="d2">朱德是中国人民解放军总司令，负责检阅阅兵式中的部队。</data>
+      <data key="d3">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="聂荣臻">
+      <data key="d0">聂荣臻</data>
+      <data key="d1">person</data>
+      <data key="d2">聂荣臻是阅兵总指挥，负责指挥阅兵式各部队的行进和展示。</data>
+      <data key="d3">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="五星红旗">
+      <data key="d0">五星红旗</data>
+      <data key="d1">category</data>
+      <data key="d2">五星红旗是中华人民共和国的国旗，在开国大典升旗仪式中首次升起，象征着新中国的成立。</data>
+      <data key="d3">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="三十万群众">
+      <data key="d0">三十万群众</data>
+      <data key="d1">geo</data>
+      <data key="d2">三十万群众聚集在天安门广场参与开国大典，是中华人民共和国成立的重要见证者，体现了人民对新中国的支持与热情。</data>
+      <data key="d3">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="毛主席">
+      <data key="d0">毛主席</data>
+      <data key="d1">person</data>
+      <data key="d2">毛主席是中华人民共和国的主要缔造者，领导了开国大典的各项工作，与群众互动，体现了革命领导人的形象。</data>
+      <data key="d3">chunk-76b5337151d9c839510e316a07377173</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="国家独立">
+      <data key="d0">国家独立</data>
+      <data key="d1">category</data>
+      <data key="d2">国家独立是开国大典的核心主题，体现中国摆脱殖民统治、实现主权自主的历史转折点。</data>
+      <data key="d3">chunk-76b5337151d9c839510e316a07377173</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="郝副营长">
+      <data key="d0">郝副营长</data>
+      <data key="d1">person</data>
+      <data key="d2">A heroic soldier who sacrificed himself during the War to Resist US Aggression and Aid Korea, symbolizing the spirit of selfless dedication and national pride. His actions became a cornerstone of patriotic education in China.&gt;</data>
+      <data key="d3">chunk-bca60c13f9322d81d74606ef0187954b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="邱少云">
+      <data key="d0">邱少云</data>
+      <data key="d1">person</data>
+      <data key="d2">邱少云是志愿军战士，在潜伏任务中被敌方燃烧弹点燃后仍坚持隐蔽直至牺牲，展现了极高的纪律性和牺牲精神。</data>
+      <data key="d3">chunk-ec1cd6be02f6c29323292b7fc9272ca0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="孙国岐">
+      <data key="d0">孙国岐</data>
+      <data key="d1">person</data>
+      <data key="d2">孙国岐是战场记录者，通过第一视角描述了邱少云在潜伏任务中的英勇表现，记录了战地细节。</data>
+      <data key="d3">chunk-ec1cd6be02f6c29323292b7fc9272ca0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="391高地">
+      <data key="d0">391高地</data>
+      <data key="d1">geo</data>
+      <data key="d2">391高地是抗美援朝战争中志愿军发起进攻的战术要点，地形复杂且具有战略价值。</data>
+      <data key="d3">chunk-ec1cd6be02f6c29323292b7fc9272ca0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="抗美援朝战争">
+      <data key="d0">抗美援朝战争</data>
+      <data key="d1">event</data>
+      <data key="d2">抗美援朝战争是1950年代中国支援朝鲜的军事行动，包含多次关键战役和著名英雄事迹。</data>
+      <data key="d3">chunk-ec1cd6be02f6c29323292b7fc9272ca0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="健康饮食">
+      <data key="d0">健康饮食</data>
+      <data key="d1">category</data>
+      <data key="d2">健康饮食是关于饮食习惯和健康相关话题的分类，涉及营养摄入、饮食结构优化以及健康生活方式的推广。&lt;SEP&gt;健康饮食是演讲主题中关注的现代生活议题，与文本中提及的演讲活动内容相关。</data>
+      <data key="d3">chunk-15ca304c99168a22c2a70994c0857bf8&lt;SEP&gt;chunk-ec1cd6be02f6c29323292b7fc9272ca0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="物官">
+      <data key="d0">物官</data>
+      <data key="d1">person</data>
+      <data key="d2">《越一更写给儿子的信》作者，通过家庭教育表达对后代的期望，体现传统文化传承</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="《越一更写给儿子的信》">
+      <data key="d0">《越一更写给儿子的信》</data>
+      <data key="d1">organization</data>
+      <data key="d2">承载家庭教育理念的文学作品，展现父辈对子女的寄望</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="东京">
+      <data key="d0">东京</data>
+      <data key="d1">geo</data>
+      <data key="d2">象征历史与现代交织的文化空间，隐喻传统技艺在当代的延续</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="制作竹节人">
+      <data key="d0">制作竹节人</data>
+      <data key="d1">event</data>
+      <data key="d2">儿童手工实践，体现传统玩具制作技艺与亲子互动</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="传统玩具">
+      <data key="d0">传统玩具</data>
+      <data key="d1">category</data>
+      <data key="d2">以竹节人为代表的民间手工艺品，承载代际文化记忆</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="曹植">
+      <data key="d0">曹植</data>
+      <data key="d1">person</data>
+      <data key="d2">三国文学家，其'捐躯赴国难'被引用于家国情怀阐释</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="李纲">
+      <data key="d0">李纲</data>
+      <data key="d1">person</data>
+      <data key="d2">北宋名臣，'祖宗疆土，当以死守'体现国防意识</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="陆游">
+      <data key="d0">陆游</data>
+      <data key="d1">person</data>
+      <data key="d2">南宋诗人，'位卑未敢忘忧国'展现个人报国情怀</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="杨绛">
+      <data key="d0">杨绛</data>
+      <data key="d1">person</data>
+      <data key="d2">作家，'读书好比串门儿'的比喻被用于阅读方法论</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="非遗传承">
+      <data key="d0">非遗传承</data>
+      <data key="d1">category</data>
+      <data key="d2">传统手工艺活态保护，连接历史与现代教育</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="宇宙生命之谜">
+      <data key="d0">宇宙生命之谜</data>
+      <data key="d1">category</data>
+      <data key="d2">"探讨地球以外是否存在生命的科学问题，涉及宇宙探索与生命起源的理论分析"&gt;</data>
+      <data key="d3">chunk-94585b26610aeff1ca7e15f8e095b5c2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="Forbidden City">
+      <data key="d0">Forbidden City</data>
+      <data key="d1">geo</data>
+      <data key="d2">The imperial palace complex, the central part of the Forbidden City, housing the Three Halls and other structures, serving as the political and ceremonial center of the Ming and Qing dynasties.</data>
+      <data key="d3">chunk-202df49821d2b28c7c7543ce98db39f7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="故宫博物院">
+      <data key="d0">故宫博物院</data>
+      <data key="d1">organization</data>
+      <data key="d2">故宫博物院是位于中国北京的大型文化机构，负责管理和保护紫禁城及其相关历史建筑，现为世界文化遗产和全国重点文物保护单位。它是紫禁城的现代名称，也是北京故宫的官方机构。</data>
+      <data key="d3">chunk-9736a919ed0fe008543ec1392199d275</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="老班长">
+      <data key="d0">老班长</data>
+      <data key="d1">person</data>
+      <data key="d2">老班长是负责照顾生病同志的红军战士，以吃草根和鱼骨头为代价维系团队生存，展现革命者的奉献精神。</data>
+      <data key="d3">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="小梁">
+      <data key="d0">小梁</data>
+      <data key="d1">person</data>
+      <data key="d2">小梁是病弱的红军战士，因饥饿和虚弱而无法进食，与老班长形成鲜明对比的同志形象。</data>
+      <data key="d3">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="两个小同志">
+      <data key="d0">两个小同志</data>
+      <data key="d1">person</data>
+      <data key="d2">两个小同志是体质严重衰弱的红军战士，依赖老班长的照顾才能继续前进。</data>
+      <data key="d3">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="草地">
+      <data key="d0">草地</data>
+      <data key="d1">geo</data>
+      <data key="d2">草地是红军长征途中恶劣的自然环境，象征着生存困境和革命斗争的艰难历程。</data>
+      <data key="d3">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="党">
+      <data key="d0">党</data>
+      <data key="d1">category</data>
+      <data key="d2">党代表中国共产党，是红军的领导核心，指导员的指示体现党的革命宗旨和纪律要求。</data>
+      <data key="d3">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="鱼骨头">
+      <data key="d0">鱼骨头</data>
+      <data key="d1">event</data>
+      <data key="d2">鱼骨头是老班长食用的食物残渣，象征革命者牺牲个人利益的奉献精神。</data>
+      <data key="d3">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="鱼汤">
+      <data key="d0">鱼汤</data>
+      <data key="d1">event</data>
+      <data key="d2">鱼汤是老班长省下的食物，体现革命者之间的关怀与牺牲。</data>
+      <data key="d3">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="革命精神">
+      <data key="d0">革命精神</data>
+      <data key="d1">category</data>
+      <data key="d2">革命精神是贯穿全文的核心理念，涵盖奉献、牺牲、坚持和信仰等价值体系。</data>
+      <data key="d3">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="妈妈">
+      <data key="d0">妈妈</data>
+      <data key="d1">person</data>
+      <data key="d2">妈妈是故事中的主要人物，负责照顾孩子，与孩子进行日常互动，展现家庭关怀与情感交流。</data>
+      <data key="d3">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="我">
+      <data key="d0">我</data>
+      <data key="d1">person</data>
+      <data key="d2">'我'是故事的叙述者和主要角色，表现出对下雨天的期待与心理变化，通过行动展现'盼'的情感。</data>
+      <data key="d3">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="下雨">
+      <data key="d0">下雨</data>
+      <data key="d1">event</data>
+      <data key="d2">下雨是贯穿全文的核心事件，推动情节发展，成为孩子期待的目标和情感寄托。</data>
+      <data key="d3">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="家">
+      <data key="d0">家</data>
+      <data key="d1">geo</data>
+      <data key="d2">家是故事发生的场景，包含厨房、卧室等空间，承载着家庭生活和情感互动。</data>
+      <data key="d3">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="雨衣">
+      <data key="d0">雨衣</data>
+      <data key="d1">object</data>
+      <data key="d2">雨衣是孩子获得的物品，象征雨天的保护与家庭的关爱，是情节发展的关键道具。</data>
+      <data key="d3">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="小站">
+      <data key="d0">小站</data>
+      <data key="d1">geo</data>
+      <data key="d2">位于山坳中的简易火车站，周围有光秃秃的石头山，设有月台、喷水池和杏树，是春景的重要场景</data>
+      <data key="d3">chunk-5f12843705cf5eda21ef3b909c0ef8d9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="西伯利亚">
+      <data key="d0">西伯利亚</data>
+      <data key="d1">geo</data>
+      <data key="d2">西伯利亚是位于亚洲北部的广阔地区，气候恶劣，常受干旱、霜冻、沙尘暴等自然灾害侵袭，是地球环境中极具挑战性的区域。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="晋西北">
+      <data key="d0">晋西北</data>
+      <data key="d1">geo</data>
+      <data key="d2">晋西北是中国的一个地理区域，以干旱、沙尘暴等极端气候为特征，是人类与自然抗争的典型环境。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="宇航员">
+      <data key="d0">宇航员</data>
+      <data key="d1">person</data>
+      <data key="d2">宇航员是飞向太空的科学家，他们通过观察地球，揭示了地球的脆弱性和美丽，成为人类保护地球的重要见证者。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="科学家">
+      <data key="d0">科学家</data>
+      <data key="d1">person</data>
+      <data key="d2">科学家通过研究证明地球是唯一适合人类居住的星球，提出移民计划但强调其可行性极低，是人类认知地球生态的关键群体。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="人类">
+      <data key="d0">人类</data>
+      <data key="d1">person</data>
+      <data key="d2">人类依赖地球资源生存，但因过度开发和滥用化学品导致生态灾难，是地球环境变化的核心驱动力。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="自然资源">
+      <data key="d0">自然资源</data>
+      <data key="d1">category</data>
+      <data key="d2">自然资源包括水资源、土地资源、矿产资源等，是地球生态系统的重要组成部分，但其有限性成为环境保护的紧迫议题。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="生态灾难">
+      <data key="d0">生态灾难</data>
+      <data key="d1">category</data>
+      <data key="d2">生态灾难由人类破坏自然资源和滥用化学品引发，威胁人类生存，是环境恶化的主要后果。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="环境保护">
+      <data key="d0">环境保护</data>
+      <data key="d1">category</data>
+      <data key="d2">环境保护是人类为应对资源枯竭和生态灾难而采取的行动，旨在维护地球生态平衡。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="矿产资源">
+      <data key="d0">矿产资源</data>
+      <data key="d1">category</data>
+      <data key="d2">矿产资源是地球地质变化形成的宝贵财富，但其不可再生性要求人类进行科学开采和合理利用。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="环境污染">
+      <data key="d0">环境污染</data>
+      <data key="d1">category</data>
+      <data key="d2">环境污染源于人类对自然资源的破坏和化学品的滥用，是生态灾难的重要诱因。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="科学探索">
+      <data key="d0">科学探索</data>
+      <data key="d1">category</data>
+      <data key="d2">科学探索涵盖对地球生态、资源分布及宜居性研究，是解决环境危机的关键途径。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="地球环境">
+      <data key="d0">地球环境</data>
+      <data key="d1">category</data>
+      <data key="d2">地球环境是指人类赖以生存的自然条件，包括大气、水体、土壤等，其保护直接关系到人类未来。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="地球资源">
+      <data key="d0">地球资源</data>
+      <data key="d1">category</data>
+      <data key="d2">地球资源指地球提供的各类物质和能源，如矿产、水资源等，其枯竭将引发严重危机。</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="老人">
+      <data key="d0">老人</data>
+      <data key="d1">person</data>
+      <data key="d2">在晋西北山沟中坚持种树的山野老农，通过十年绿化工程实现生态修复，与老伴共同参与治沟工作</data>
+      <data key="d3">chunk-2bfda946a936ec450992e25a239878a8</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="陈晓光">
+      <data key="d0">陈晓光</data>
+      <data key="d1">organization</data>
+      <data key="d2">歌曲创作者，负责创作《在希望的田野上》等作品，属于文学艺术领域的重要人物"</data>
+      <data key="d3">chunk-d7e36e0ab91af8e9d0c733cddfee9585</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="育英小学阳光中队">
+      <data key="d0">育英小学阳光中队</data>
+      <data key="d1">organization</data>
+      <data key="d2">育英小学阳光中队是校园少先队组织，负责发起节约用水倡议活动。</data>
+      <data key="d3">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="节约用水倡议">
+      <data key="d0">节约用水倡议</data>
+      <data key="d1">event</data>
+      <data key="d2">节约用水倡议是针对全校师生发起的环保行动，旨在提高水资源保护意识和节约用水实践。</data>
+      <data key="d3">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="同学们">
+      <data key="d0">同学们</data>
+      <data key="d1">category</data>
+      <data key="d2">同学们是倡议书的宣传对象和实践主体，代表校园群体参与节水行动。</data>
+      <data key="d3">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="水龙头">
+      <data key="d0">水龙头</data>
+      <data key="d1">geo</data>
+      <data key="d2">水龙头是日常用水设施，是节约用水行动中需要关注的具体设备。</data>
+      <data key="d3">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="淘米水">
+      <data key="d0">淘米水</data>
+      <data key="d1">category</data>
+      <data key="d2">淘米水是厨房用水的再利用实例，体现一水多用的节水理念。</data>
+      <data key="d3">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="冲厕所">
+      <data key="d0">冲厕所</data>
+      <data key="d1">category</data>
+      <data key="d2">冲厕所是生活用水场景，倡议书建议使用洗脸水等替代水源。</data>
+      <data key="d3">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="全校师生">
+      <data key="d0">全校师生</data>
+      <data key="d1">category</data>
+      <data key="d2">全校师生是节水倡议的覆盖群体，包含所有在校人员，是环保行动的广泛参与者。</data>
+      <data key="d3">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="65路">
+      <data key="d0">65路</data>
+      <data key="d1">organization</data>
+      <data key="d2">公交线路，实行单一票制，票价一元，停靠站点包括温泉镇凯旋路，首班车时间为06:00，末班车时间为21:00</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="763路">
+      <data key="d0">763路</data>
+      <data key="d1">organization</data>
+      <data key="d2">公交线路，实行单一票制，票价一元，停靠站点包括辉渠镇南河桥，首班车时间为09:00，末班车时间为21:00</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="温泉镇">
+      <data key="d0">温泉镇</data>
+      <data key="d1">geo</data>
+      <data key="d2">地名，公交线路65路途经的镇</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="商城桥枫村街洼巷">
+      <data key="d0">商城桥枫村街洼巷</data>
+      <data key="d1">geo</data>
+      <data key="d2">具体地理位置，公交线路途经的站点</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="辉渠镇">
+      <data key="d0">辉渠镇</data>
+      <data key="d1">geo</data>
+      <data key="d2">地名，公交线路763路途经的镇</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="南河桥">
+      <data key="d0">南河桥</data>
+      <data key="d1">geo</data>
+      <data key="d2">具体地理位置，公交线路763路的停靠站点</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="伯牙鼓琴">
+      <data key="d0">伯牙鼓琴</data>
+      <data key="d1">event</data>
+      <data key="d2">古代音乐故事，伯牙弹琴，锺子期听琴并点评，后因锺子期去世，伯牙终身不复鼓琴</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="书戴嵩画牛">
+      <data key="d0">书戴嵩画牛</data>
+      <data key="d1">event</data>
+      <data key="d2">北宋苏轼记载的文言文故事，讲述牧童指出戴嵩《牛》画作中的错误</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="锺子期">
+      <data key="d0">锺子期</data>
+      <data key="d1">person</data>
+      <data key="d2">古代音乐家，伯牙鼓琴故事中的听琴者&lt;SEP&gt;锺子期是春秋时期音乐家伯牙的知己，能准确理解伯牙琴意，被后世称为知音典范。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13&lt;SEP&gt;chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="杜处士">
+      <data key="d0">杜处士</data>
+      <data key="d1">person</data>
+      <data key="d2">画牛故事中珍藏画作的士人</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="文言文">
+      <data key="d0">文言文</data>
+      <data key="d1">category</data>
+      <data key="d2">古代汉语文本，包含《伯牙鼓琴》《书戴嵩画牛》两则故事</data>
+      <data key="d3">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="伯牙">
+      <data key="d0">伯牙</data>
+      <data key="d1">person</data>
+      <data key="d2">伯牙是春秋时期著名的音乐家，因与锺子期成为知音而被后世传颂，擅长演奏古琴。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="《伯牙鼓琴》">
+      <data key="d0">《伯牙鼓琴》</data>
+      <data key="d1">event</data>
+      <data key="d2">伯牙与锺子期因琴艺相知的故事，是古代知音传说的核心事件。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="《书戴嵩画牛》">
+      <data key="d0">《书戴嵩画牛》</data>
+      <data key="d1">event</data>
+      <data key="d2">唐代画家戴嵩画牛被盲女称赞的典故，体现艺术与情感的交流。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="吕氏春秋">
+      <data key="d0">吕氏春秋</data>
+      <data key="d1">organization</data>
+      <data key="d2">战国时期杂家著作，记载伯牙与锺子期知音传说的重要典籍。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="列子">
+      <data key="d0">列子</data>
+      <data key="d1">organization</data>
+      <data key="d2">先秦道家典籍，收录伯牙与锺子期知音故事的古代文献。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="贝多芬">
+      <data key="d0">贝多芬</data>
+      <data key="d1">person</data>
+      <data key="d2">德国著名作曲家，创作了《月光曲》&lt;SEP&gt;德国著名作曲家，创作了著名的钢琴曲《月光曲》。</data>
+      <data key="d3">chunk-3f2a40c57bd89cd8c87ac9fa649f0449&lt;SEP&gt;chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="《月光曲》">
+      <data key="d0">《月光曲》</data>
+      <data key="d1">category</data>
+      <data key="d2">贝多芬创作的钢琴奏鸣曲，传说中在莱茵河畔为盲女创作的著名乐章。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="莱茵河">
+      <data key="d0">莱茵河</data>
+      <data key="d1">geo</data>
+      <data key="d2">欧洲重要河流，贝多芬创作《月光曲》传说的发生地。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="高山流水">
+      <data key="d0">高山流水</data>
+      <data key="d1">category</data>
+      <data key="d2">比喻知音难觅或乐曲高妙的典故，源自伯牙与锺子期的故事。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="戴嵩">
+      <data key="d0">戴嵩</data>
+      <data key="d1">person</data>
+      <data key="d2">唐代著名画家，以画牛技艺著称，被盲女称赞。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="盲女">
+      <data key="d0">盲女</data>
+      <data key="d1">person</data>
+      <data key="d2">因听闻戴嵩画牛技艺而感动的盲人女性，体现艺术与情感的共鸣。</data>
+      <data key="d3">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="盲姑娘">
+      <data key="d0">盲姑娘</data>
+      <data key="d1">person</data>
+      <data key="d2">双目失明的少女，与贝多芬有音乐互动</data>
+      <data key="d3">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="月光曲">
+      <data key="d0">月光曲</data>
+      <data key="d1">event</data>
+      <data key="d2">贝多芬创作并演奏的钢琴曲，描述月光下的海景</data>
+      <data key="d3">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="京剧">
+      <data key="d0">京剧</data>
+      <data key="d1">category</data>
+      <data key="d2">中国传统戏曲艺术形式，包含虚拟道具与表演技巧</data>
+      <data key="d3">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="马鞭">
+      <data key="d0">马鞭</data>
+      <data key="d1">category</data>
+      <data key="d2">京剧中的虚拟道具，用于表现骑马动作</data>
+      <data key="d3">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="《拾玉镯》">
+      <data key="d0">《拾玉镯》</data>
+      <data key="d1">category</data>
+      <data key="d2">京剧剧目，展现虚拟道具的运用</data>
+      <data key="d3">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="闰土">
+      <data key="d0">闰土</data>
+      <data key="d1">person</data>
+      <data key="d2">少年时期的玩伴，与“我”共同经历月下看瓜刺猹，讲述海边新鲜事的少年。&lt;SEP&gt;闰土是一个十一二岁的少年，是鲁迅短篇小说《少年闰土》中的主要人物，具有紫色圆脸、银项圈等特征，与鲁迅有深厚的童年友谊。</data>
+      <data key="d3">chunk-60668bf768fa56824e7593149f8c31e1&lt;SEP&gt;chunk-c3af0de9a1938370084410ffdbfe3606</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="鲁迅">
+      <data key="d0">鲁迅</data>
+      <data key="d1">person</data>
+      <data key="d2">中国现代文学巨匠，思想家，以笔为武器揭露社会黑暗，为革命事业奋斗。其作品影响深远，去世后被后人铭记。&lt;SEP&gt;鲁迅是《少年闰土》的作者，也是小说中的叙述者，与闰土有着童年的亲密关系，后因生活变迁渐行渐远。</data>
+      <data key="d3">chunk-cd7555aaaa7ba07e7e147ab9a5883307&lt;SEP&gt;chunk-c3af0de9a1938370084410ffdbfe3606</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="祭祀">
+      <data key="d0">祭祀</data>
+      <data key="d1">event</data>
+      <data key="d2">祭祀是闰土参与的家族活动，需要他负责看管祭器，是闰土初次与鲁迅接触的契机。</data>
+      <data key="d3">chunk-c3af0de9a1938370084410ffdbfe3606</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="西瓜地">
+      <data key="d0">西瓜地</data>
+      <data key="d1">geo</data>
+      <data key="d2">西瓜地是海边的沙地，是鲁迅与闰土童年交往的重要场所，充满童趣与自然气息。</data>
+      <data key="d3">chunk-c3af0de9a1938370084410ffdbfe3606</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="大海">
+      <data key="d0">大海</data>
+      <data key="d1">geo</data>
+      <data key="d2">大海是闰土生活的自然环境背景，常与海边西瓜地、猹等元素共同出现。</data>
+      <data key="d3">chunk-c3af0de9a1938370084410ffdbfe3606</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="猹">
+      <data key="d0">猹</data>
+      <data key="d1">category</data>
+      <data key="d2">猹是一种生活在海边的动物，形似小狗，性情凶猛，是闰土与鲁迅交谈时提到的神秘生物。</data>
+      <data key="d3">chunk-c3af0de9a1938370084410ffdbfe3606</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="伯父">
+      <data key="d0">伯父</data>
+      <data key="d1">person</data>
+      <data key="d2">已故的长辈，被追悼的核心人物，与家人频繁互动，分享书籍，在除夕夜和帮助黄包车夫事件中展现性格特征，具有教育意义</data>
+      <data key="d3">chunk-8e876a31c92472d4c17654783795e76f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="义务教育教科书语文">
+      <data key="d0">义务教育教科书语文</data>
+      <data key="d1">organization</data>
+      <data key="d2">《义务教育教科书语文》是由教育部组织编写的小学语文教材，涵盖一至六年级课程内容，是基础教育的重要教学资源。</data>
+      <data key="d3">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="人民教育出版社">
+      <data key="d0">人民教育出版社</data>
+      <data key="d1">organization</data>
+      <data key="d2">承担教科书编辑出版工作的专业机构，为教材编写、试教试用提供全方位支持，是教材传播的重要载体。</data>
+      <data key="d3">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="温儒敏">
+      <data key="d0">温儒敏</data>
+      <data key="d1">person</data>
+      <data key="d2">北京大学中文系教授，担任《义务教育教科书语文》总主编，负责教材编写的核心指导工作。</data>
+      <data key="d3">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="王宁">
+      <data key="d0">王宁</data>
+      <data key="d1">person</data>
+      <data key="d2">教材审查专家，参与教科书的修改完善工作，提供专业指导意见。</data>
+      <data key="d3">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="北京大学附属小学">
+      <data key="d0">北京大学附属小学</data>
+      <data key="d1">organization</data>
+      <data key="d2">为教材提供硬笔书法作品的学校，参与教材内容的实践检验。</data>
+      <data key="d3">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="北京市">
+      <data key="d0">北京市</data>
+      <data key="d1">geo</data>
+      <data key="d2">在教科书试教试用过程中提供支持的地区，代表教学实践单位。</data>
+      <data key="d3">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="天津市">
+      <data key="d0">天津市</data>
+      <data key="d1">|&gt;"geo</data>
+      <data key="d2">参与教材质量提升的教研部门及学校所在地，体现区域协作。</data>
+      <data key="d3">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="福建省">
+      <data key="d0">福建省</data>
+      <data key="d1">geo</data>
+      <data key="d2">教材试教试用的重要地区，为教材推广提供实践基础。</data>
+      <data key="d3">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="词语表">
+      <data key="d0">词语表</data>
+      <data key="d1">category</data>
+      <data key="d2">收录各类词汇的分类集合，涵盖自然景物、情感表达、修辞手法等语文学习内容。</data>
+      <data key="d3">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="教育部">
+      <data key="d0">教育部</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d2">教育部组织编写了该教材，负责制定课程标准并统筹教材编写工作"</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="语言规范">
+      <data key="d0">语言规范</data>
+      <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d2">教材强化语言规范性，提升学生书面表达准确性"</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="天涯碧草话斜, 斜阳">
+      <data key="d0">天涯碧草话斜, 斜阳</data>
+      <data key="d3">chunk-09111b7ed415f11bd45228bdd5ad7587</data>
+      <data key="d2">课文通过夕阳下的草原场景，展现民族间深厚的情感纽带。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="长征">
+      <data key="d0">长征</data>
+      <data key="d3">chunk-d3455fbf8f94d717947cde012c8a46bb</data>
+      <data key="d2">红军是长征行动的主体力量，完成战略转移任务。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="学校">
+      <data key="d0">学校</data>
+      <data key="d3">chunk-15ca304c99168a22c2a70994c0857bf8</data>
+      <data key="d2">学校是组织学校运动会的主体机构，承担活动策划与执行的责任</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="学校运动会">
+      <data key="d0">学校运动会</data>
+      <data key="d3">chunk-15ca304c99168a22c2a70994c0857bf8</data>
+      <data key="d2">学校是组织学校运动会的主体机构，承担活动策划与执行的责任</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="文学作品">
+      <data key="d0">文学作品</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d2">名句被引用为爱国主义文学符号</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="爱国精神">
+      <data key="d0">爱国精神</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d2">名言成为国防意识的文化象征</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="读书好比串门儿">
+      <data key="d0">读书好比串门儿</data>
+      <data key="d3">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d2">比喻被用于阅读方法论阐释</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="太阳系">
+      <data key="d0">太阳系</data>
+      <data key="d3">chunk-94585b26610aeff1ca7e15f8e095b5c2</data>
+      <data key="d2">水星是太阳系中的一颗行星</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="水星">
+      <data key="d0">水星</data>
+      <data key="d3">chunk-94585b26610aeff1ca7e15f8e095b5c2</data>
+      <data key="d2">水星是太阳系中的一颗行星</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="喷泉">
+      <data key="d0">喷泉</data>
+      <data key="d3">chunk-5f12843705cf5eda21ef3b909c0ef8d9</data>
+      <data key="d2">喷泉位于小站月台中央，是车站的核心景观，体现人文点缀</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="地球">
+      <data key="d0">地球</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d2">宇航员通过太空观测揭示了地球的脆弱性和美丽，成为人类保护地球的重要视角。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="环境破坏">
+      <data key="d0">环境破坏</data>
+      <data key="d3">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d2">人类对自然资源的过度开发和滥用化学品直接导致环境污染和生态灾难。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="山沟">
+      <data key="d0">山沟</data>
+      <data key="d3">chunk-2bfda946a936ec450992e25a239878a8</data>
+      <data key="d2">老人通过种树治理山沟，实现生态修复与防风固沙目标</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="海景">
+      <data key="d0">海景</data>
+      <data key="d3">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d2">《月光曲》描绘月光下的海景画面</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="钢琴曲">
+      <data key="d0">钢琴曲</data>
+      <data key="d3">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d2">《月光曲》属于贝多芬创作的钢琴曲</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="阿三">
+      <data key="d0">阿三</data>
+      <data key="d3">chunk-cd7555aaaa7ba07e7e147ab9a5883307</data>
+      <data key="d2">阿三亲历鲁迅关爱底层人民的言行，其生活遭遇与鲁迅精神形成鲜明对照。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="YIWU JIAOYU JIAOKESHU YUWEN">
+      <data key="d0">YIWU JIAOYU JIAOKESHU YUWEN</data>
+      <data key="d3">chunk-09eef796211e07cc2b1908f2205bf62d</data>
+      <data key="d2">雪松为本书绘制插图</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <node id="雪松">
+      <data key="d0">雪松</data>
+      <data key="d3">chunk-09eef796211e07cc2b1908f2205bf62d</data>
+      <data key="d2">雪松为本书绘制插图</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748188993</data>
+    </node>
+    <edge source="义务教育教科书语文六年级上册" target="教育部">
+      <data key="d6">9.0</data>
+      <data key="d7">教育部组织编写了该教材，负责制定课程标准并统筹教材编写工作"</data>
+      <data key="d8">课程开发</data>
+      <data key="d9">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="义务教育教科书语文六年级上册" target="语言规范">
+      <data key="d6">9.0</data>
+      <data key="d7">教材强化语言规范性，提升学生书面表达准确性"</data>
+      <data key="d8">语言教学</data>
+      <data key="d9">chunk-f223f53031b46764644ef167ae51a87b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="天涯碧草话斜阳" target="草原">
+      <data key="d6">8.0</data>
+      <data key="d7">课文描绘的草原风光是事件发生的地理背景，展现自然与人文的融合。</data>
+      <data key="d8">地理环境,文学意象</data>
+      <data key="d9">chunk-09111b7ed415f11bd45228bdd5ad7587</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="丁香结" target="丁香">
+      <data key="d6">9.0</data>
+      <data key="d7">散文以丁香花为意象，通过植物特性抒发情感和人生哲思。</data>
+      <data key="d8">文学意象,自然描写</data>
+      <data key="d9">chunk-09111b7ed415f11bd45228bdd5ad7587</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="蒙汉情深" target="天涯碧草话斜, 斜阳">
+      <data key="d6">7.0</data>
+      <data key="d7">课文通过夕阳下的草原场景，展现民族间深厚的情感纽带。</data>
+      <data key="d8">情感表达,文化象征</data>
+      <data key="d9">chunk-09111b7ed415f11bd45228bdd5ad7587</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="红军" target="长征">
+      <data key="d6">9.5</data>
+      <data key="d7">红军是长征行动的主体力量，完成战略转移任务。</data>
+      <data key="d8">战争战略,革命精神</data>
+      <data key="d9">chunk-d3455fbf8f94d717947cde012c8a46bb</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="红军" target="党">
+      <data key="d6">10.0</data>
+      <data key="d7">党通过组织和纪律指导红军行动，确保革命目标的实现。"|&gt;"组织服从, 集体意志</data>
+      <data key="d8">10</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="红军" target="草地">
+      <data key="d6">9.0</data>
+      <data key="d7">红军在草地中面临生存挑战，展现革命者不屈不挠的斗争精神。"|&gt;"生存考验, 集体奋斗</data>
+      <data key="d8">9</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="中华人民共和国中央人民政府" target="毛泽东">
+      <data key="d6">19.0</data>
+      <data key="d7">毛泽东担任中华人民共和国中央人民政府主席，领导开国大典仪式。&lt;SEP&gt;毛泽东是中华人民共和国中央人民政府主席，代表政府进行国家宣告。</data>
+      <data key="d8">国家代表,国家元首,政权象征,领导关系</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="中华人民共和国中央人民政府" target="开国大典">
+      <data key="d6">9.0</data>
+      <data key="d7">中华人民共和国中央人民政府宣布开国大典开始并主持典礼。</data>
+      <data key="d8">国家仪式,国家机关</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="中华人民共和国中央人民政府" target="五星红旗">
+      <data key="d6">10.0</data>
+      <data key="d7">五星红旗是中华人民共和国的国旗，由中央人民政府宣布升起</data>
+      <data key="d8">国家标志,政权象征</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="毛泽东" target="五星红旗">
+      <data key="d6">10.0</data>
+      <data key="d7">毛泽东亲自按动电钮升起五星红旗，标志着新中国成立。</data>
+      <data key="d8">国家标志,象征意义</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="天安门广场" target="开国大典">
+      <data key="d6">17.0</data>
+      <data key="d7">天安门广场是开国大典的主要举行场所，聚集了三十万群众。&lt;SEP&gt;开国大典在天安门广场举行，这是庆典的中心场地。</data>
+      <data key="d8">事件地点,国家仪式,国家庆典,活动场所</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="开国大典" target="林伯渠">
+      <data key="d6">8.0</data>
+      <data key="d7">林伯渠作为秘书长主持开国大典典礼程序</data>
+      <data key="d8">典礼组织,国家仪式</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="开国大典" target="中国人民解放军">
+      <data key="d6">9.0</data>
+      <data key="d7">中国人民解放军参与开国大典阅兵式展示军威</data>
+      <data key="d8">国家象征,阅兵仪式</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="开国大典" target="三十万群众">
+      <data key="d6">8.0</data>
+      <data key="d7">三十万群众聚集在天安门广场见证开国大典</data>
+      <data key="d8">历史见证,群众参与</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="中国人民解放军" target="朱德">
+      <data key="d6">9.0</data>
+      <data key="d7">朱德作为总司令负责检阅中国人民解放军部队。</data>
+      <data key="d8">军事领导,阅兵仪式</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="中国人民解放军" target="聂荣臻">
+      <data key="d6">8.0</data>
+      <data key="d7">聂荣臻担任阅兵总指挥，带领部队进行阅兵展示。</data>
+      <data key="d8">军事指挥,阅兵组织</data>
+      <data key="d9">chunk-5262bb794363aa03a55deb88b4492a32</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="邱少云" target="391高地">
+      <data key="d6">9.0</data>
+      <data key="d7">邱少云在391高地潜伏任务中被燃烧弹点燃，最终随部队攻克此地。</data>
+      <data key="d8">作战行动,军事任务地点</data>
+      <data key="d9">chunk-ec1cd6be02f6c29323292b7fc9272ca0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="邱少云" target="抗美援朝战争">
+      <data key="d6">10.0</data>
+      <data key="d7">邱少云的牺牲是抗美援朝战争中典型英雄事迹的代表。</data>
+      <data key="d8">历史事件,战争英雄事迹</data>
+      <data key="d9">chunk-ec1cd6be02f6c29323292b7fc9272ca0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="邱少云" target="孙国岐">
+      <data key="d6">8.0</data>
+      <data key="d7">孙国岐记录了邱少云在战场上的英勇表现及其最终牺牲过程。</data>
+      <data key="d8">历史见证,战地记录者与被记录者</data>
+      <data key="d9">chunk-ec1cd6be02f6c29323292b7fc9272ca0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="391高地" target="抗美援朝战争">
+      <data key="d6">9.0</data>
+      <data key="d7">391高地是抗美援朝战争中志愿军发起冲锋的重要战术据点。</data>
+      <data key="d8">战争地理,战役地点关联</data>
+      <data key="d9">chunk-ec1cd6be02f6c29323292b7fc9272ca0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="物官" target="传统玩具">
+      <data key="d6">9.0</data>
+      <data key="d7">通过制作竹节人实践传递文化传承，体现家庭教育与非遗结合</data>
+      <data key="d8">文化教育,非遗传承</data>
+      <data key="d9">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="《越一更写给儿子的信》" target="传统玩具">
+      <data key="d6">8.0</data>
+      <data key="d7">文学作品与手工实践共同构成文化教育载体</data>
+      <data key="d8">教育实践,文化载体</data>
+      <data key="d9">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="东京" target="传统玩具">
+      <data key="d6">7.0</data>
+      <data key="d7">空间意象隐喻文化传承的地理载体</data>
+      <data key="d8">历史空间,文化隐喻</data>
+      <data key="d9">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="制作竹节人" target="传统玩具">
+      <data key="d6">10.0</data>
+      <data key="d7">具体实践传统手工艺，体现非遗活态传承</data>
+      <data key="d8">手工技艺,非遗传承</data>
+      <data key="d9">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="传统玩具" target="非遗传承">
+      <data key="d6">9.0</data>
+      <data key="d7">手工艺保护连接历史记忆与现代教育</data>
+      <data key="d8">教育载体,文化保护</data>
+      <data key="d9">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="曹植" target="文学作品">
+      <data key="d6">8.0</data>
+      <data key="d7">名句被引用为爱国主义文学符号</data>
+      <data key="d8">文化符号,文学引用</data>
+      <data key="d9">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="李纲" target="爱国精神">
+      <data key="d6">9.0</data>
+      <data key="d7">名言成为国防意识的文化象征</data>
+      <data key="d8">历史符号,爱国教育</data>
+      <data key="d9">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="陆游" target="文学作品">
+      <data key="d6">9.0</data>
+      <data key="d7">诗句被编入教材作为爱国教育素材</data>
+      <data key="d8">教育应用,经典引用</data>
+      <data key="d9">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="杨绛" target="读书好比串门儿">
+      <data key="d6">8.0</data>
+      <data key="d7">比喻被用于阅读方法论阐释</data>
+      <data key="d8">教育实践,文学比喻</data>
+      <data key="d9">chunk-638afe3c255d428e02285fb64d7b9820</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="老班长" target="两个小同志">
+      <data key="d6">9.0</data>
+      <data key="d7">老班长负责照顾两个小同志的生存，通过提供食物和鼓励维持团队士气。"|&gt;"照顾关系，革命情谊</data>
+      <data key="d8">9</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="老班长" target="草地">
+      <data key="d6">8.0</data>
+      <data key="d7">老班长带领团队穿越草地，克服恶劣自然环境的挑战。"|&gt;"环境对抗，生存考验</data>
+      <data key="d8">8</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="老班长" target="党">
+      <data key="d6">10.0</data>
+      <data key="d7">老班长遵循党的指示，以革命精神完成指导员交代的护送任务。"|&gt;"组织服从，革命信仰</data>
+      <data key="d8">10</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="老班长" target="鱼骨头">
+      <data key="d6">18.0</data>
+      <data key="d7">老班长以鱼骨头为食，凸显革命者为集体利益牺牲个人的奉献精神。"|&gt;"牺牲精神, 集体利益&lt;SEP&gt;老班长将鱼骨头作为食物，体现为革命牺牲个人利益的奉献精神。"|&gt;"牺牲精神，革命信仰</data>
+      <data key="d8">9</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="老班长" target="鱼汤">
+      <data key="d6">9.0</data>
+      <data key="d7">鱼汤是老班长保存的食物，承载革命者之间的情感联结与责任。"|&gt;"情感联结, 信任传递</data>
+      <data key="d8">9</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="老班长" target="革命精神">
+      <data key="d6">10.0</data>
+      <data key="d7">老班长的行动是革命精神的具体实践，体现奉献、牺牲和坚持。"|&gt;"精神践行, 信仰传承</data>
+      <data key="d8">10</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="两个小同志" target="鱼汤">
+      <data key="d6">9.0</data>
+      <data key="d7">鱼汤是老班长省下的食物，象征革命者之间的关怀与牺牲。"|&gt;"互助精神，革命情谊</data>
+      <data key="d8">9</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="草地" target="党">
+      <data key="d6">8.0</data>
+      <data key="d7">党领导红军克服草地等自然障碍，体现革命信仰战胜困难的力量。"|&gt;"信仰力量, 环境征服</data>
+      <data key="d8">8</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="鱼汤" target="革命精神">
+      <data key="d6">9.0</data>
+      <data key="d7">鱼汤象征革命精神中的关怀与牺牲，连接革命者之间的情感纽带。"|&gt;"精神象征, 情感纽带</data>
+      <data key="d8">9</data>
+      <data key="d9">chunk-5d2d0b0a5a7ff8f608d73b7c1ca0e555</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="妈妈" target="我">
+      <data key="d6">8.0</data>
+      <data key="d7">妈妈通过对话和行动(如准备晚餐、帮助系雨衣)展现对孩子的关爱，与'我'共同构成家庭情感纽带。</data>
+      <data key="d8">家庭互动,照顾关系</data>
+      <data key="d9">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="妈妈" target="雨衣">
+      <data key="d6">5.0</data>
+      <data key="d7">妈妈帮助孩子整理雨衣，体现对孩子的照顾，雨衣是家庭关怀的实物载体。</data>
+      <data key="d8">关系支持,物品协助</data>
+      <data key="d9">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="我" target="下雨">
+      <data key="d6">9.0</data>
+      <data key="d7">'我'对下雨的期待和渴望构成核心情感线索，雨停后立刻跑回家获得雨衣的行动体现'盼'的心理。</data>
+      <data key="d8">情感期待,行为驱动</data>
+      <data key="d9">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="下雨" target="家">
+      <data key="d6">7.0</data>
+      <data key="d7">下雨事件在家庭场景中发生，雨天与家的环境相互作用，强化了'盼'的情感氛围。</data>
+      <data key="d8">场景关联,情感烘托</data>
+      <data key="d9">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="下雨" target="雨衣">
+      <data key="d6">6.0</data>
+      <data key="d7">下雨事件直接触发雨衣的获取行为，雨衣是孩子对雨天期待的具象化结果。</data>
+      <data key="d8">事件触发,物品获取</data>
+      <data key="d9">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="家" target="雨衣">
+      <data key="d6">4.0</data>
+      <data key="d7">雨衣在家中使用，家是雨衣功能的体现场景，两者共同构建雨天的保护空间。</data>
+      <data key="d8">场景关联,物品存放</data>
+      <data key="d9">chunk-b51f144d24b76bde3b3c032f8d1466b3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="小站" target="喷泉">
+      <data key="d6">9.0</data>
+      <data key="d7">喷泉位于小站月台中央，是车站的核心景观，体现人文点缀</data>
+      <data key="d8">景观位置</data>
+      <data key="d9">chunk-5f12843705cf5eda21ef3b909c0ef8d9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="宇航员" target="地球">
+      <data key="d6">9.0</data>
+      <data key="d7">宇航员通过太空观测揭示了地球的脆弱性和美丽，成为人类保护地球的重要视角。</data>
+      <data key="d8">observer-description</data>
+      <data key="d9">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="宇航员" target="科学探索">
+      <data key="d6">8.0</data>
+      <data key="d7">宇航员的太空观察推动科学探索，深化人类对地球和宇宙的认知。</data>
+      <data key="d8">observer-research</data>
+      <data key="d9">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="科学家" target="科学探索">
+      <data key="d6">9.0</data>
+      <data key="d7">科学家通过研究地球的生态和资源分布，推动科学探索的深化，提出保护地球的解决方案。</data>
+      <data key="d8">research-driver</data>
+      <data key="d9">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="人类" target="环境破坏">
+      <data key="d6">10.0</data>
+      <data key="d7">人类对自然资源的过度开发和滥用化学品直接导致环境污染和生态灾难。</data>
+      <data key="d8">human-impact</data>
+      <data key="d9">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="自然资源" target="地球">
+      <data key="d6">10.0</data>
+      <data key="d7">地球为人类提供有限的自然资源，包括矿产、水资源等，是人类生存的物质基础。</data>
+      <data key="d8">resource-provider</data>
+      <data key="d9">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="生态灾难" target="环境破坏">
+      <data key="d6">9.0</data>
+      <data key="d7">环境污染和资源破坏是生态灾难的主要诱因，威胁地球生态系统和人类生存。</data>
+      <data key="d8">cause-effect</data>
+      <data key="d9">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="生态灾难" target="地球资源">
+      <data key="d6">8.0</data>
+      <data key="d7">地球资源的枯竭会加剧生态灾难，形成恶性循环。</data>
+      <data key="d8">resource-catastrophe</data>
+      <data key="d9">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="环境保护" target="地球资源">
+      <data key="d6">8.0</data>
+      <data key="d7">环境保护措施旨在防止地球资源的枯竭，确保资源的可持续利用。</data>
+      <data key="d8">resource-protection</data>
+      <data key="d9">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="科学探索" target="地球环境">
+      <data key="d6">9.0</data>
+      <data key="d7">科学探索揭示地球环境的脆弱性，为制定保护措施提供理论依据。</data>
+      <data key="d8">science-environment</data>
+      <data key="d9">chunk-6744e6c28474e584b72573faf7862b76</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="老人" target="山沟">
+      <data key="d6">9.5</data>
+      <data key="d7">老人通过种树治理山沟，实现生态修复与防风固沙目标</data>
+      <data key="d8">人地关系</data>
+      <data key="d9">chunk-2bfda946a936ec450992e25a239878a8</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="育英小学阳光中队" target="节约用水倡议">
+      <data key="d6">9.0</data>
+      <data key="d7">校园少先队组织发起节水环保行动</data>
+      <data key="d8">倡议发起者,校园教育活动</data>
+      <data key="d9">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="节约用水倡议" target="同学们">
+      <data key="d6">8.0</data>
+      <data key="d7">倡议书的宣传对象和实践主体</data>
+      <data key="d8">环保参与者,节水行动者</data>
+      <data key="d9">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="节约用水倡议" target="水龙头">
+      <data key="d6">7.0</data>
+      <data key="d7">节水行动中需要及时关闭的用水设备</data>
+      <data key="d8">节水措施,设备管理</data>
+      <data key="d9">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="节约用水倡议" target="淘米水">
+      <data key="d6">7.0</data>
+      <data key="d7">节水实践中的再利用实例</data>
+      <data key="d8">一水多用,资源循环</data>
+      <data key="d9">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="节约用水倡议" target="冲厕所">
+      <data key="d6">7.0</data>
+      <data key="d7">生活节水场景中的替代用水方案</data>
+      <data key="d8">替代水源,生活节水</data>
+      <data key="d9">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="节约用水倡议" target="全校师生">
+      <data key="d6">8.0</data>
+      <data key="d7">倡议覆盖的全体教育对象</data>
+      <data key="d8">校园群体,环保行动范围</data>
+      <data key="d9">chunk-9fb82a435e7c13ba1290f19c706e72c7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="65路" target="温泉镇">
+      <data key="d6">8.0</data>
+      <data key="d7">公交线路65路途经温泉镇凯旋路</data>
+      <data key="d8">地理位置关联</data>
+      <data key="d9">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="65路" target="商城桥枫村街洼巷">
+      <data key="d6">7.0</data>
+      <data key="d7">公交线路65路停靠商城桥枫村街洼巷站点</data>
+      <data key="d8">交通停靠点</data>
+      <data key="d9">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="65路" target="763路">
+      <data key="d6">6.0</data>
+      <data key="d7">两条公交线路均实行单一票价制</data>
+      <data key="d8">运营特征关联</data>
+      <data key="d9">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="763路" target="辉渠镇">
+      <data key="d6">8.0</data>
+      <data key="d7">公交线路763路途经辉渠镇南河桥</data>
+      <data key="d8">地理位置关联</data>
+      <data key="d9">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="763路" target="南河桥">
+      <data key="d6">7.0</data>
+      <data key="d7">公交线路763路停靠南河桥站点</data>
+      <data key="d8">交通停靠点</data>
+      <data key="d9">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="伯牙鼓琴" target="锺子期">
+      <data key="d6">9.0</data>
+      <data key="d7">伯牙鼓琴事件中的听琴者</data>
+      <data key="d8">故事参与者</data>
+      <data key="d9">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="伯牙鼓琴" target="文言文">
+      <data key="d6">8.0</data>
+      <data key="d7">伯牙鼓琴故事属于文言文类别</data>
+      <data key="d8">文本分类</data>
+      <data key="d9">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="伯牙鼓琴" target="吕氏春秋">
+      <data key="d6">9.0</data>
+      <data key="d7">《吕氏春秋》记载了伯牙与锺子期知音传说的历史文献。</data>
+      <data key="d8">典籍记载,文化传承</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="伯牙鼓琴" target="列子">
+      <data key="d6">9.0</data>
+      <data key="d7">《列子》收录了伯牙与锺子期知音故事的古代文献。</data>
+      <data key="d8">典籍记载,文化传承</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="书戴嵩画牛" target="杜处士">
+      <data key="d6">9.0</data>
+      <data key="d7">书戴嵩画牛事件中的藏画者</data>
+      <data key="d8">故事参与者</data>
+      <data key="d9">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="书戴嵩画牛" target="文言文">
+      <data key="d6">8.0</data>
+      <data key="d7">书戴嵩画牛故事属于文言文类别</data>
+      <data key="d8">文本分类</data>
+      <data key="d9">chunk-22da2d8b07246f846450ee55c73b662a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="锺子期" target="伯牙">
+      <data key="d6">9.0</data>
+      <data key="d7">伯牙与锺子期因琴艺相知，成为千古传颂的知音典范。</data>
+      <data key="d8">知音传说,艺术共鸣</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="《伯牙鼓琴》" target="高山流水">
+      <data key="d6">8.0</data>
+      <data key="d7">《伯牙鼓琴》故事被‘高山流水’比喻为知音难觅的象征。</data>
+      <data key="d8">典故衍生,文学意象</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="《伯牙鼓琴》" target="吕氏春秋">
+      <data key="d6">9.0</data>
+      <data key="d7">《吕氏春秋》记载了伯牙与锺子期知音传说。</data>
+      <data key="d8">典籍记载,文化传承</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="《伯牙鼓琴》" target="列子">
+      <data key="d6">9.0</data>
+      <data key="d7">《列子》收录了伯牙与锺子期知音故事。</data>
+      <data key="d8">典籍记载,文化传承</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="《书戴嵩画牛》" target="盲女">
+      <data key="d6">7.0</data>
+      <data key="d7">盲女因听闻戴嵩画牛的技艺而感动，体现艺术与情感的传递。</data>
+      <data key="d8">心灵触动,艺术共鸣</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="《书戴嵩画牛》" target="戴嵩">
+      <data key="d6">14.0</data>
+      <data key="d7">《书戴嵩画牛》描述了唐代画家戴嵩创作画牛的典故。&lt;SEP&gt;戴嵩是《书戴嵩画牛》事件中的核心人物，以画牛技艺闻名。</data>
+      <data key="d8">历史关联,艺术典故</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="贝多芬" target="《月光曲》">
+      <data key="d6">10.0</data>
+      <data key="d7">贝多芬为盲女创作了著名的钢琴曲《月光曲》。</data>
+      <data key="d8">情感表达,艺术创作</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="贝多芬" target="月光曲">
+      <data key="d6">9.0</data>
+      <data key="d7">贝多芬创作并弹奏了《月光曲》</data>
+      <data key="d8">音乐创作</data>
+      <data key="d9">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="贝多芬" target="盲姑娘">
+      <data key="d6">8.0</data>
+      <data key="d7">贝多芬为盲姑娘演奏月光曲，展现音乐共鸣</data>
+      <data key="d8">艺术表演</data>
+      <data key="d9">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="贝多芬" target="钢琴曲">
+      <data key="d6">8.0</data>
+      <data key="d7">《月光曲》属于贝多芬创作的钢琴曲</data>
+      <data key="d8">音乐形式</data>
+      <data key="d9">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="《月光曲》" target="莱茵河">
+      <data key="d6">8.0</data>
+      <data key="d7">《月光曲》传说发生在莱茵河畔的小镇。</data>
+      <data key="d8">创作背景,地理关联</data>
+      <data key="d9">chunk-c9c9af7447667d4cc983c528b4dfad13</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="月光曲" target="海景">
+      <data key="d6">7.0</data>
+      <data key="d7">《月光曲》描绘月光下的海景画面</data>
+      <data key="d8">自然意境</data>
+      <data key="d9">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="京剧" target="马鞭">
+      <data key="d6">9.0</data>
+      <data key="d7">马鞭是京剧艺术中虚拟道具的典型代表</data>
+      <data key="d8">虚拟道具</data>
+      <data key="d9">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="京剧" target="《拾玉镯》">
+      <data key="d6">9.0</data>
+      <data key="d7">《拾玉镯》是京剧剧目中展现虚拟道具的实例</data>
+      <data key="d8">戏曲技巧</data>
+      <data key="d9">chunk-3f2a40c57bd89cd8c87ac9fa649f0449</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="鲁迅" target="阿三">
+      <data key="d6">9.0</data>
+      <data key="d7">阿三亲历鲁迅关爱底层人民的言行，其生活遭遇与鲁迅精神形成鲜明对照。</data>
+      <data key="d8">精神传承</data>
+      <data key="d9">chunk-cd7555aaaa7ba07e7e147ab9a5883307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="义务教育教科书语文" target="温儒敏">
+      <data key="d6">16.0</data>
+      <data key="d7">《义务教育教科书语文》由温儒敏教授担任总主编，负责教材编写的整体指导。&lt;SEP&gt;温儒敏教授担任总主编，负责教材编写的整体指导。</data>
+      <data key="d8">教材编纂,教育项目</data>
+      <data key="d9">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="义务教育教科书语文" target="人民教育出版社">
+      <data key="d6">9.0</data>
+      <data key="d7">人民教育出版社负责教材的编辑出版工作，保障教材的规范化与传播。</data>
+      <data key="d8">出版发行,教育支持</data>
+      <data key="d9">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="义务教育教科书语文" target="王宁">
+      <data key="d6">7.0</data>
+      <data key="d7">王宁作为审查专家，参与教材的修改完善与质量把控。</data>
+      <data key="d8">内容审核,教育评估</data>
+      <data key="d9">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="义务教育教科书语文" target="北京大学附属小学">
+      <data key="d6">6.0</data>
+      <data key="d7">该校学生为教材的‘书写提示’栏目提供硬笔书法作品，体现教材的实践应用。</data>
+      <data key="d8">学生参与,教学实践</data>
+      <data key="d9">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="义务教育教科书语文" target="北京市">
+      <data key="d6">8.0</data>
+      <data key="d7">北京市教研部门及学校在教材试教试用中提供支持，推动教材质量提升。</data>
+      <data key="d8">教学验证,教育协作</data>
+      <data key="d9">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="义务教育教科书语文" target="词语表">
+      <data key="d6">8.0</data>
+      <data key="d7">词语表是教材的重要组成部分，支持语文学习内容的系统化。</data>
+      <data key="d8">教学资源,课程内容</data>
+      <data key="d9">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="人民教育出版社" target="北京市">
+      <data key="d6">8.0</data>
+      <data key="d7">人民教育出版社与北京市教研部门及学校合作，推动教材试教试用。</data>
+      <data key="d8">教学验证,教育协作</data>
+      <data key="d9">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="人民教育出版社" target="天津市">
+      <data key="d6">8.0</data>
+      <data key="d7">人民教育出版社与天津市教研部门及学校合作，提升教材质量。</data>
+      <data key="d8">教学验证,教育协作</data>
+      <data key="d9">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="人民教育出版社" target="福建省">
+      <data key="d6">8.0</data>
+      <data key="d7">人民教育出版社与福建省开展教材试教试用，积累实践经验。</data>
+      <data key="d8">教学验证,教育协作</data>
+      <data key="d9">chunk-b36735eb516883e27eba08978011e9f5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="学校" target="学校运动会">
+      <data key="d6">5.0</data>
+      <data key="d7">学校是组织学校运动会的主体机构，承担活动策划与执行的责任</data>
+      <data key="d8">organizational_organizer</data>
+      <data key="d9">chunk-15ca304c99168a22c2a70994c0857bf8</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="太阳系" target="水星">
+      <data key="d6">8.0</data>
+      <data key="d7">水星是太阳系中的一颗行星</data>
+      <data key="d8">属于</data>
+      <data key="d9">chunk-94585b26610aeff1ca7e15f8e095b5c2</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+    <edge source="YIWU JIAOYU JIAOKESHU YUWEN" target="雪松">
+      <data key="d6">9.0</data>
+      <data key="d7">雪松为本书绘制插图</data>
+      <data key="d8">创作合作</data>
+      <data key="d9">chunk-09eef796211e07cc2b1908f2205bf62d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748188993</data>
+    </edge>
+  </graph>
+</graphml>
