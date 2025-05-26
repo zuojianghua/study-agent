@@ -81,7 +81,7 @@ async def main():
         # await rag.ainsert(txt)
 
         # Perform hybrid search
-        mode="hybrid"
+        mode="mix"
         print(
             await rag.aquery(
                 "请列出6年级上语文课文的各单元目录",
