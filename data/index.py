@@ -62,7 +62,7 @@ async def initialize_rag():
         chunk_token_size=1200,
         chunk_overlap_token_size=100,
         # llm_model_max_token_size=16384,
-        max_parallel_insert = 1,
+        max_parallel_insert = 16,
         enable_llm_cache=False,
     )
     await rag.initialize_storages()
@@ -74,17 +74,17 @@ async def main():
         # Initialize RAG instance
         rag = await initialize_rag()
 
-        file_path = "./yw_6_0/auto/yw_6_0.md"
+        file_path = "./yw_6_1/auto/yw_6_1.md"
         with open(file_path, 'r', encoding='utf-8') as f:
             txt=f.read()
             # print(txt)
-        # await rag.ainsert(txt)
+        await rag.ainsert(txt)
 
         # Perform hybrid search
         mode="mix"
         print(
             await rag.aquery(
-                "请列出6年级上语文课文的各单元目录",
+                "请列出6年级下语文课文的各单元目录",
                 param=QueryParam(mode=mode)
             )
         )

@@ -7,22 +7,22 @@
 <graph edgedefault="undirected"><node id="教育部">
   <data key="d0">教育部</data>
   <data key="d1">organization</data>
-  <data key="d2">中华人民共和国国务院组成部门，负责教育事业，组织编写义务教育教科书。&lt;SEP&gt;负责组织编写《义务教育教科书语文》的国家教育部门。</data>
-  <data key="d3">chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-b36735eb516883e27eba08978011e9f5</data>
+  <data key="d2">根据提供的信息，**教育部**是中华人民共和国国务院的组成部门之一，也是一个负责教育事业的中央政府部门和国家教育部门。它负责组织编写义务教育教科书，具体包括组织编写《义务教育教科书语文》（涵盖一至六年级），同时也负责组织编写《义务教育教科书语文六年级下册》等具体教材。此外，教育部还组织了一线教师对教材进行了通读。</data>
+  <data key="d3">chunk-5d4075a9561418c18fa63eff115a5d56&lt;SEP&gt;chunk-b36735eb516883e27eba08978011e9f5&lt;SEP&gt;chunk-6a3886d867cb91b699c865abe13196cf&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-ab62eaa81d2d3586e113e4e15020a113</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="人民教育出版社">
   <data key="d0">人民教育出版社</data>
   <data key="d1">organization</data>
-  <data key="d2">中华人民共和国主要的教育类专业出版社，负责义务教育教科书的出版发行。&lt;SEP&gt;负责《义务教育教科书语文》的编辑出版工作，并在组织编写和试教试用过程中提供协助。</data>
+  <data key="d2">中华人民共和国主要的教育类专业出版社，负责义务教育教科书的出版发行。&lt;SEP&gt;中华人民共和国主要的教育类专业出版社，负责义务教育教科书的出版发行。&lt;SEP&gt;负责《义务教育教科书语文》的编辑出版工作，并在组织编写和试教试用过程中提供协助。&lt;SEP&gt;负责《义务教育教科书语文》的编辑出版工作，并在组织编写和试教试用过程中提供协助。</data>
   <data key="d3">chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-b36735eb516883e27eba08978011e9f5</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="温儒敏">
   <data key="d0">温儒敏</data>
   <data key="d1">person</data>
-  <data key="d2">义务教育教科书《语文》六年级上册的总主编。</data>
-  <data key="d3">chunk-f223f53031b46764644ef167ae51a87b</data>
+  <data key="d2">《义务教育教科书语文六年级下册》的总主编，同时也是编写人员之一。&lt;SEP&gt;义务教育教科书《语文》六年级上册的总主编。&lt;SEP&gt;北京大学中文系教授，担任《义务教育教科书语文(一〜六年级)》的总主编。&lt;SEP&gt;北京大学中文系教授，担任《义务教育教科书语文》(一〜六年级)的总主编。</data>
+  <data key="d3">chunk-ab62eaa81d2d3586e113e4e15020a113&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-5d4075a9561418c18fa63eff115a5d56&lt;SEP&gt;chunk-6a3886d867cb91b699c865abe13196cf</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="陈先云">
@@ -105,7 +105,7 @@
 <node id="北京市">
   <data key="d0">北京市</data>
   <data key="d1">geo</data>
-  <data key="d2">《义务教育教科书语文》的试教试用地点之一。&lt;SEP&gt;中华人民共和国的首都，人民教育出版社的所在地。</data>
+  <data key="d2">《义务教育教科书语文》的试教试用地点之一。&lt;SEP&gt;《义务教育教科书语文》的试教试用地点之一。&lt;SEP&gt;中华人民共和国的首都，人民教育出版社的所在地。&lt;SEP&gt;中华人民共和国的首都，人民教育出版社的所在地。</data>
   <data key="d3">chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-b36735eb516883e27eba08978011e9f5</data>
   <data key="d4">unknown_source</data>
 </node>
@@ -133,29 +133,29 @@
 <node id="鲁迅">
   <data key="d0">鲁迅</data>
   <data key="d1">person</data>
-  <data key="d2">中国现代文学家，课文《少年闰土》、《我的伯父鲁迅先生》、《有的人-纪念鲁迅有感》中提及的人物。&lt;SEP&gt;中国现代著名作家，本文引用了他的多篇作品中的经典语录。&lt;SEP&gt;著名的作家，受到纪念的人物。诗人臧克家为其写了纪念诗《有的人》，诗中通过对比不同类型的人来表达对鲁迅精神的赞颂。</data>
-  <data key="d3">chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-cd7555aaaa7ba07e7e147ab9a5883307&lt;SEP&gt;chunk-52cefabf6cb16380cac1cbe9020577b1</data>
+  <data key="d2">根据提供的信息，**鲁迅**是中国现代著名的文学家和作家。他在多篇课文和文章中被提及，例如课文《少年闰土》、《我的伯父鲁迅先生》和《有的人-纪念鲁迅有感》。**鲁迅**是受到纪念的人物，他的多篇作品中的经典语录被引用。诗人臧克家为纪念他写了诗歌《有的人》，这首诗通过对比不同类型的人来赞颂**鲁迅**的精神。</data>
+  <data key="d3">chunk-52cefabf6cb16380cac1cbe9020577b1&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-cd7555aaaa7ba07e7e147ab9a5883307</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="狼牙山">
   <data key="d0">狼牙山</data>
   <data key="d1">geo</data>
-  <data key="d2">位于晋察冀根据地内，是《狼牙山五壮士》故事的主要发生地。&lt;SEP&gt;在“交流平台”章节中提到的历史事件“狼牙山上的激烈战斗”的发生地点。&lt;SEP&gt;河北省保定市易县西部的山脉，与课文《狼牙山五壮士》相关联的地点。&lt;SEP&gt;狼牙山是故事发生的主要地点，五位壮士在此进行战斗并牺牲。</data>
-  <data key="d3">chunk-15ca304c99168a22c2a70994c0857bf8&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-d3455fbf8f94d717947cde012c8a46bb&lt;SEP&gt;chunk-0dcd1fccbd9fa7a558f761ba544e3366</data>
+  <data key="d2">狼牙山是一座位于河北省保定市易县西部的山脉。该山位于晋察冀根据地内，是著名的《狼牙山五壮士》故事的主要发生地，也是“狼牙山上的激烈战斗”这一历史事件的发生地点。五位壮士在此进行了激烈的战斗并牺牲，狼牙山因此与课文《狼牙山五壮士》紧密关联。</data>
+  <data key="d3">chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-15ca304c99168a22c2a70994c0857bf8&lt;SEP&gt;chunk-0dcd1fccbd9fa7a558f761ba544e3366&lt;SEP&gt;chunk-d3455fbf8f94d717947cde012c8a46bb</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="故宫博物院">
   <data key="d0">故宫博物院</data>
   <data key="d1">organization</data>
-  <data key="d2">位于北京市中心的古代皇家宫殿建筑群，是课文《故宫博物院》的主题。也可视为组织/机构，但在课文目录中更多作为地点/主题出现。&lt;SEP&gt;故宫博物院是位于北京紫禁城内的博物馆，负责管理和展示这座古代皇宫建筑群及其藏品，是我国重要的文化机构。&lt;SEP&gt;管理故宫的博物馆机构，是中国的全国重点文物保护单位和联合国教科文组织认定的世界文化遗产，实行特定的参观路线。</data>
-  <data key="d3">chunk-67017d45b43bdbdbde37b4da9a2582e3&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-9736a919ed0fe008543ec1392199d275</data>
+  <data key="d2">故宫博物院位于北京市中心，既是古代皇家宫殿建筑群，也是设立于北京紫禁城内的博物馆机构。作为博物馆，故宫博物院负责管理和展示这座宏伟的古代皇宫建筑群及其丰富的藏品。它是中国</data>
+  <data key="d3">chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-67017d45b43bdbdbde37b4da9a2582e3&lt;SEP&gt;chunk-9736a919ed0fe008543ec1392199d275</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="地球">
   <data key="d0">地球</data>
   <data key="d1">geo</data>
-  <data key="d2">人类及已知生命生存的行星，课文《只有一个地球》的主题。&lt;SEP&gt;人类生存的家园，宇宙中的一个晶莹球体，拥有有限的自然资源和重要的生态环境，但同时也非常脆弱，容易被破坏。&lt;SEP&gt;在文本的“变形记”写作练习部分被提及，作为一个可以进行“自述”的写作主题。&lt;SEP&gt;地球是人类居住的行星，也是科学家们进行地外生命探索研究的基地，落在地球上的陨石被用于分析以寻找地外生命的线索。&lt;SEP&gt;太阳系中的一颗行星，目前已知唯一存在生命的天体。</data>
-  <data key="d3">chunk-6744e6c28474e584b72573faf7862b76&lt;SEP&gt;chunk-67017d45b43bdbdbde37b4da9a2582e3&lt;SEP&gt;chunk-94585b26610aeff1ca7e15f8e095b5c2&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-cf9648870a65ebab8d1080b24965d5c6</data>
+  <data key="d2">地球是人类及已知生命生存的行星，也是人类在宇宙中的家园。它被描述为一个晶莹的球体，拥有有限的自然资源和重要的生态环境，但同时也非常脆弱，容易被破坏。地球是太阳系中的一颗行星，目前已知是唯一存在生命的天体。它不仅是课文《只有一个地球》的主题，也是科学家们进行地外生命探索研究的基地，科学家会分析落在地球上的陨石以寻找地外生命的线索。此外，地球在文本的“变形记”写作练习部分被提及，可以作为进行“自述”的写作主题。</data>
+  <data key="d3">chunk-94585b26610aeff1ca7e15f8e095b5c2&lt;SEP&gt;chunk-cf9648870a65ebab8d1080b24965d5c6&lt;SEP&gt;chunk-67017d45b43bdbdbde37b4da9a2582e3&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-6744e6c28474e584b72573faf7862b76</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="语文">
@@ -175,15 +175,15 @@
 <node id="第一单元">
   <data key="d0">第一单元</data>
   <data key="d1">category</data>
-  <data key="d2">教科书的第一个教学单元，包含多篇课文和学习活动。&lt;SEP&gt;文本中标记的一个单元标题，标志着一个学习单元的开始，其内容包含草原相关的课文。</data>
-  <data key="d3">chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-61d508a1763bc4ed52e9a5657bd71be5</data>
+  <data key="d2">教科书的第一个教学单元，包含多篇课文和学习活动。&lt;SEP&gt;教科书的第一个教学单元，包含多篇课文和学习活动。&lt;SEP&gt;文本中标记的一个单元标题，标志着一个学习单元的开始，其内容包含草原相关的课文。&lt;SEP&gt;文本中标记的一个单元标题，标志着一个学习单元的开始，其内容包含草原相关的课文。</data>
+  <data key="d3">chunk-61d508a1763bc4ed52e9a5657bd71be5&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="草原">
   <data key="d0">草原</data>
   <data key="d1">geo</data>
-  <data key="d2">文本主要描述的自然地理环境，一片广阔的、植被以草为主的区域，是访问的目的地和活动场景。&lt;SEP&gt;第一单元的一篇课文，主题与地理环境相关。&lt;SEP&gt;课文描述的草原，拥有柔美的线条，翠色欲流的景色，被比作中国画，带给人惊叹和舒服的感受。</data>
-  <data key="d3">chunk-09111b7ed415f11bd45228bdd5ad7587&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-61d508a1763bc4ed52e9a5657bd71be5</data>
+  <data key="d2">草原被描述为一个自然地理环境，是一片广阔的、植</data>
+  <data key="d3">chunk-61d508a1763bc4ed52e9a5657bd71be5&lt;SEP&gt;chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-09111b7ed415f11bd45228bdd5ad7587</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="丁香结">
@@ -289,6 +289,13 @@
   <data key="d1">category</data>
   <data key="d2">第二单元的一篇课文，记述抗日战争时期发生在狼牙山的英雄事迹。&lt;SEP&gt;记叙抗日战争时期五位八路军战士在狼牙山顽强抗敌、英勇跳崖的故事。</data>
   <data key="d3">chunk-f223f53031b46764644ef167ae51a87b&lt;SEP&gt;chunk-d3455fbf8f94d717947cde012c8a46bb</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="义务教育教科书语文六年级下册">
+  <data key="d0">义务教育教科书语文六年级下册</data>
+  <data key="d1">category</data>
+  <data key="d2">这是一本由教育部组织编写、人民教育出版社出版的六年级下册的语文义务教育教科书，包含了六个单元、古诗词诵读、写字表和词语表等内容。</data>
+  <data key="d3">chunk-6a3886d867cb91b699c865abe13196cf</data>
   <data key="d4">unknown_source</data>
 </node>
 </graph></graphml>
