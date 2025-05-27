@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>辅助教学系统</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🎓 辅助教学系统</h1>
+            <p>智能化学习助手，让学习更高效</p>
+        </header>
+        
+        <main class="main-content">
+            <!-- 教学目标区域 -->
+            <section class="section">
+                <h2>📋 教学目标</h2>
+                <p>本课程旨在帮助学生：</p>
+                <ul style="margin-top: 10px; padding-left: 20px;">
+                    <li>掌握核心知识点和基本概念</li>
+                    <li>培养分析问题和解决问题的能力</li>
+                    <li>提高学习效率和学习兴趣</li>
+                    <li>建立系统性的知识框架</li>
+                </ul>
+            </section>
+            
+            <!-- 课文讲解区域 -->
+            <section class="section">
+                <h2>📖 课文讲解</h2>
+                <p>本节课的重点内容包括：</p>
+                <div style="margin-top: 15px;">
+                    <h4 style="color: #2d3748; margin-bottom: 8px;">核心概念</h4>
+                    <p style="margin-bottom: 10px;">深入理解基础理论，掌握关键知识点的内在联系。</p>
+                    
+                    <h4 style="color: #2d3748; margin-bottom: 8px;">实际应用</h4>
+                    <p>结合实际案例，学会将理论知识运用到实践中。</p>
+                </div>
+            </section>
+            
+            <!-- 例题讲解区域 -->
+            <section class="section">
+                <h2>💡 例题讲解</h2>
+                <div style="background: #f7fafc; padding: 15px; border-radius: 8px; margin-top: 10px;">
+                    <h4 style="color: #2d3748; margin-bottom: 10px;">例题1：基础应用</h4>
+                    <p style="margin-bottom: 8px;"><strong>题目：</strong>请根据所学知识解决以下问题...</p>
+                    <p style="margin-bottom: 8px;"><strong>解析：</strong>首先分析题目条件，然后运用相关公式...</p>
+                    <p><strong>答案：</strong>通过逐步推导，得出最终结果。</p>
+                </div>
+            </section>
+            
+            <!-- 课后作业区域 -->
+            <section class="section">
+                <h2>📝 课后作业</h2>
+                <p>请完成以下练习题，巩固本节课所学内容：</p>
+                <ol style="margin-top: 15px; padding-left: 20px;">
+                    <li style="margin-bottom: 8px;">基础练习：完成教材第X页习题1-5</li>
+                    <li style="margin-bottom: 8px;">提高练习：思考并解答拓展问题</li>
+                    <li style="margin-bottom: 8px;">实践应用：结合实际情况设计解决方案</li>
+                </ol>
+                <p style="margin-top: 15px; color: #e53e3e; font-weight: bold;">截止时间：下周课前提交</p>
+            </section>
+        </main>
+        
+        <!-- 用户对话界面 -->
+        <section class="chat-container">
+            <h2 class="chat-header">💬 智能助教对话</h2>
+            <div id="chat-messages" class="chat-messages">
+                <!-- 聊天消息将在这里动态添加 -->
+            </div>
+            <div id="loading" class="loading">
+                助教正在思考中...
+            </div>
+            <div class="chat-input">
+                <input type="text" id="message-input" placeholder="请输入您的问题..." maxlength="500">
+                <button id="send-button">发送</button>
+            </div>
+        </section>
+    </div>
+    
+    <script src="/static/js/chat.js"></script>
+</body>
+</html>

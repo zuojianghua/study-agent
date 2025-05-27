@@ -1,8 +1,11 @@
 langchain-core
+nano-vectordb
 langchain-community
 langchain-openai
 langchain-ollama
 fastapi
-uvicorn
+uvicorn[standard]
+jinja2
+python-multipart
 lightrag-hku[api]
 lmdeploy
