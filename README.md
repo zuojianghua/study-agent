@@ -22,3 +22,13 @@ python download_models.py
 ```
 magic-pdf -p .\yw_6_0.pdf -o yw_6_0 -m auto
 ```
+
+## 构建知识库
+```
+# embedding模型使用BAAI/bge-m3
+# LLM模型使用gemini-2.5-flash
+
+cd data
+# 设置一下文件名
+python index.py
+```

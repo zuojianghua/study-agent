@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>辅助教学系统</title>
     <link rel="stylesheet" href="/static/css/style.css">
+
 </head>
 <body>
     <div class="container">
@@ -13,72 +14,223 @@
             <p>智能化学习助手，让学习更高效</p>
         </header>
         
-        <main class="main-content">
-            <!-- 教学目标区域 -->
-            <section class="section">
-                <h2>📋 教学目标</h2>
-                <p>本课程旨在帮助学生：</p>
-                <ul style="margin-top: 10px; padding-left: 20px;">
-                    <li>掌握核心知识点和基本概念</li>
-                    <li>培养分析问题和解决问题的能力</li>
-                    <li>提高学习效率和学习兴趣</li>
-                    <li>建立系统性的知识框架</li>
-                </ul>
-            </section>
+        <div class="main-layout">
+            <!-- 左侧面板 -->
+            <div class="left-panel">
+                <!-- 教学目标区域 -->
+                <section class="section teaching-goals">
+                    <h2>📋 教学目标</h2>
+                    <p>本课程旨在帮助学生：</p>
+                    <ul style="margin-top: 10px; padding-left: 20px;">
+                        <li>掌握核心知识点和基本概念</li>
+                        <li>培养分析问题和解决问题的能力</li>
+                        <li>提高学习效率和学习兴趣</li>
+                        <li>建立系统性的知识框架</li>
+                    </ul>
+                </section>
+                
+                <!-- 课本目录选择区域 -->
+                <section class="section course-catalog">
+                    <h2>📚 课本目录</h2>
+                    <div class="catalog-tree">
+                        <details class="catalog-level-1" open>
+                            <summary>📖 语文</summary>
+                            <details class="catalog-level-2">
+                                <summary>一年级上册</summary>
+                                <div class="catalog-level-3">
+                                    <div class="catalog-item" onclick="selectCourse(this, '语文', '一年级上册', '第一单元', '第1课')">第一单元 - 第1课：aoe</div>
+                                    <div class="catalog-item" onclick="selectCourse(this, '语文', '一年级上册', '第一单元', '第2课')">第一单元 - 第2课：iuv</div>
+                                    <div class="catalog-item" onclick="selectCourse(this, '语文', '一年级上册', '第二单元', '第3课')">第二单元 - 第3课：bpmf</div>
+                                </div>
+                            </details>
+                            <details class="catalog-level-2">
+                                <summary>一年级下册</summary>
+                                <div class="catalog-level-3">
+                                    <div class="catalog-item" onclick="selectCourse(this, '语文', '一年级下册', '第一单元', '第1课')">第一单元 - 第1课：春夏秋冬</div>
+                                    <div class="catalog-item" onclick="selectCourse(this, '语文', '一年级下册', '第一单元', '第2课')">第一单元 - 第2课：姓氏歌</div>
+                                </div>
+                            </details>
+                        </details>
+                        
+                        <details class="catalog-level-1">
+                            <summary>🔢 数学</summary>
+                            <details class="catalog-level-2">
+                                <summary>一年级上册</summary>
+                                <div class="catalog-level-3">
+                                    <div class="catalog-item" onclick="selectCourse(this, '数学', '一年级上册', '第一单元', '第1课')">第一单元 - 第1课：数一数</div>
+                                    <div class="catalog-item" onclick="selectCourse(this, '数学', '一年级上册', '第一单元', '第2课')">第一单元 - 第2课：比多少</div>
+                                    <div class="catalog-item" onclick="selectCourse(this, '数学', '一年级上册', '第二单元', '第3课')">第二单元 - 第3课：1-5的认识</div>
+                                </div>
+                            </details>
+                            <details class="catalog-level-2">
+                                <summary>一年级下册</summary>
+                                <div class="catalog-level-3">
+                                    <div class="catalog-item" onclick="selectCourse(this, '数学', '一年级下册', '第一单元', '第1课')">第一单元 - 第1课：认识图形</div>
+                                    <div class="catalog-item" onclick="selectCourse(this, '数学', '一年级下册', '第一单元', '第2课')">第一单元 - 第2课：拼一拼</div>
+                                </div>
+                            </details>
+                        </details>
+                        
+                        <details class="catalog-level-1">
+                            <summary>🌍 英语</summary>
+                            <details class="catalog-level-2">
+                                <summary>三年级上册</summary>
+                                <div class="catalog-level-3">
+                                    <div class="catalog-item" onclick="selectCourse(this, '英语', '三年级上册', '第一单元', '第1课')">第一单元 - 第1课：Hello</div>
+                                    <div class="catalog-item" onclick="selectCourse(this, '英语', '三年级上册', '第一单元', '第2课')">第一单元 - 第2课：Colours</div>
+                                    <div class="catalog-item" onclick="selectCourse(this, '英语', '三年级上册', '第二单元', '第3课')">第二单元 - 第3课：Look at me</div>
+                                </div>
+                            </details>
+                            <details class="catalog-level-2">
+                                <summary>三年级下册</summary>
+                                <div class="catalog-level-3">
+                                    <div class="catalog-item" onclick="selectCourse(this, '英语', '三年级下册', '第一单元', '第1课')">第一单元 - 第1课：Welcome back</div>
+                                    <div class="catalog-item" onclick="selectCourse(this, '英语', '三年级下册', '第一单元', '第2课')">第一单元 - 第2课：My family</div>
+                                </div>
+                            </details>
+                        </details>
+                    </div>
+                </section>
+            </div>
             
-            <!-- 课文讲解区域 -->
-            <section class="section">
-                <h2>📖 课文讲解</h2>
-                <p>本节课的重点内容包括：</p>
-                <div style="margin-top: 15px;">
-                    <h4 style="color: #2d3748; margin-bottom: 8px;">核心概念</h4>
-                    <p style="margin-bottom: 10px;">深入理解基础理论，掌握关键知识点的内在联系。</p>
+            <!-- 右侧面板 -->
+            <div class="right-panel">
+                <!-- 用户对话输入框 -->
+                <section class="section chat-input-section">
+                    <h2>💬 智能助教对话</h2>
+                    <div class="chat-input">
+                        <input type="text" id="message-input" placeholder="请输入您的问题..." maxlength="500">
+                        <button id="send-button">发送</button>
+                    </div>
+                    <div id="loading" class="loading" style="display: none; margin-top: 10px; color: #666;">
+                        助教正在思考中...
+                    </div>
+                </section>
+                
+                <!-- 内容展现区域 -->
+                <section class="section content-display">
+                    <div class="content-tabs">
+                        <div class="tab-button active" onclick="switchTab('lesson')">📖 课文讲解</div>
+                        <div class="tab-button" onclick="switchTab('example')">💡 例题讲解</div>
+                        <div class="tab-button" onclick="switchTab('homework')">📝 课后作业</div>
+                    </div>
                     
-                    <h4 style="color: #2d3748; margin-bottom: 8px;">实际应用</h4>
-                    <p>结合实际案例，学会将理论知识运用到实践中。</p>
-                </div>
-            </section>
-            
-            <!-- 例题讲解区域 -->
-            <section class="section">
-                <h2>💡 例题讲解</h2>
-                <div style="background: #f7fafc; padding: 15px; border-radius: 8px; margin-top: 10px;">
-                    <h4 style="color: #2d3748; margin-bottom: 10px;">例题1：基础应用</h4>
-                    <p style="margin-bottom: 8px;"><strong>题目：</strong>请根据所学知识解决以下问题...</p>
-                    <p style="margin-bottom: 8px;"><strong>解析：</strong>首先分析题目条件，然后运用相关公式...</p>
-                    <p><strong>答案：</strong>通过逐步推导，得出最终结果。</p>
-                </div>
-            </section>
-            
-            <!-- 课后作业区域 -->
-            <section class="section">
-                <h2>📝 课后作业</h2>
-                <p>请完成以下练习题，巩固本节课所学内容：</p>
-                <ol style="margin-top: 15px; padding-left: 20px;">
-                    <li style="margin-bottom: 8px;">基础练习：完成教材第X页习题1-5</li>
-                    <li style="margin-bottom: 8px;">提高练习：思考并解答拓展问题</li>
-                    <li style="margin-bottom: 8px;">实践应用：结合实际情况设计解决方案</li>
-                </ol>
-                <p style="margin-top: 15px; color: #e53e3e; font-weight: bold;">截止时间：下周课前提交</p>
-            </section>
-        </main>
-        
-        <!-- 用户对话界面 -->
-        <section class="chat-container">
-            <h2 class="chat-header">💬 智能助教对话</h2>
-            <div id="chat-messages" class="chat-messages">
-                <!-- 聊天消息将在这里动态添加 -->
+                    <div id="lesson-content" class="tab-content active">
+                        <h3>📖 课文讲解</h3>
+                        <p>请从左侧目录选择具体课程，这里将显示对应的课文讲解内容。</p>
+                        <div style="margin-top: 15px;">
+                            <h4 style="color: #2d3748; margin-bottom: 8px;">核心概念</h4>
+                            <p style="margin-bottom: 10px;">深入理解基础理论，掌握关键知识点的内在联系。</p>
+                            
+                            <h4 style="color: #2d3748; margin-bottom: 8px;">实际应用</h4>
+                            <p>结合实际案例，学会将理论知识运用到实践中。</p>
+                        </div>
+                    </div>
+                    
+                    <div id="example-content" class="tab-content">
+                        <h3>💡 例题讲解</h3>
+                        <div style="background: #f7fafc; padding: 15px; border-radius: 8px; margin-top: 10px;">
+                            <h4 style="color: #2d3748; margin-bottom: 10px;">例题1：基础应用</h4>
+                            <p style="margin-bottom: 8px;"><strong>题目：</strong>请根据所学知识解决以下问题...</p>
+                            <p style="margin-bottom: 8px;"><strong>解析：</strong>首先分析题目条件，然后运用相关公式...</p>
+                            <p><strong>答案：</strong>通过逐步推导，得出最终结果。</p>
+                        </div>
+                    </div>
+                    
+                    <div id="homework-content" class="tab-content">
+                        <h3>📝 课后作业</h3>
+                        <p>请完成以下练习题，巩固本节课所学内容：</p>
+                        <ol style="margin-top: 15px; padding-left: 20px;">
+                            <li style="margin-bottom: 8px;">基础练习：完成教材第X页习题1-5</li>
+                            <li style="margin-bottom: 8px;">提高练习：思考并解答拓展问题</li>
+                            <li style="margin-bottom: 8px;">实践应用：结合实际情况设计解决方案</li>
+                        </ol>
+                        <p style="margin-top: 15px; color: #e53e3e; font-weight: bold;">截止时间：下周课前提交</p>
+                    </div>
+                    
+                    <div id="chat-messages" style="margin-top: 20px; max-height: 300px; overflow-y: auto; border-top: 1px solid #e2e8f0; padding-top: 15px;">
+                        <!-- 聊天消息将在这里动态添加 -->
+                    </div>
+                </section>
             </div>
-            <div id="loading" class="loading">
-                助教正在思考中...
-            </div>
-            <div class="chat-input">
-                <input type="text" id="message-input" placeholder="请输入您的问题..." maxlength="500">
-                <button id="send-button">发送</button>
-            </div>
-        </section>
+        </div>
     </div>
     
+    <script>
+        // 切换标签页
+        function switchTab(tabName) {
+            // 隐藏所有标签内容
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            
+            // 移除所有标签按钮的激活状态
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.classList.remove('active');
+            });
+            
+            // 显示选中的标签内容
+            document.getElementById(tabName + '-content').classList.add('active');
+            
+            // 激活对应的标签按钮
+            event.target.classList.add('active');
+        }
+        
+        // 选择课程
+        function selectCourse(element, subject, grade, unit, lesson) {
+            // 移除所有课程项的激活状态
+            document.querySelectorAll('.catalog-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            
+            // 激活当前选中的课程项
+            element.classList.add('active');
+            
+            // 更新内容显示
+            updateContent(subject, grade, unit, lesson);
+        }
+        
+        // 更新内容显示
+        function updateContent(subject, grade, unit, lesson) {
+            const courseTitle = `${subject} - ${grade} - ${unit} - ${lesson}`;
+            
+            // 更新课文讲解内容
+            document.getElementById('lesson-content').innerHTML = `
+                <h3>📖 课文讲解 - ${courseTitle}</h3>
+                <p>当前选择：<strong>${courseTitle}</strong></p>
+                <div style="margin-top: 15px;">
+                    <h4 style="color: #2d3748; margin-bottom: 8px;">核心概念</h4>
+                    <p style="margin-bottom: 10px;">针对${lesson}的核心概念讲解...</p>
+                    
+                    <h4 style="color: #2d3748; margin-bottom: 8px;">重点知识</h4>
+                    <p>本课重点知识点的详细说明...</p>
+                </div>
+            `;
+            
+            // 更新例题讲解内容
+            document.getElementById('example-content').innerHTML = `
+                <h3>💡 例题讲解 - ${courseTitle}</h3>
+                <div style="background: #f7fafc; padding: 15px; border-radius: 8px; margin-top: 10px;">
+                    <h4 style="color: #2d3748; margin-bottom: 10px;">例题：${lesson}相关练习</h4>
+                    <p style="margin-bottom: 8px;"><strong>题目：</strong>根据${lesson}的知识点，解决以下问题...</p>
+                    <p style="margin-bottom: 8px;"><strong>解析：</strong>运用本课所学的方法和技巧...</p>
+                    <p><strong>答案：</strong>通过分析得出正确答案。</p>
+                </div>
+            `;
+            
+            // 更新作业内容
+            document.getElementById('homework-content').innerHTML = `
+                <h3>📝 课后作业 - ${courseTitle}</h3>
+                <p>请完成以下与${lesson}相关的练习题：</p>
+                <ol style="margin-top: 15px; padding-left: 20px;">
+                    <li style="margin-bottom: 8px;">基础练习：完成${lesson}相关习题</li>
+                    <li style="margin-bottom: 8px;">提高练习：深入理解${lesson}的应用</li>
+                    <li style="margin-bottom: 8px;">拓展练习：结合实际情况应用所学知识</li>
+                </ol>
+                <p style="margin-top: 15px; color: #e53e3e; font-weight: bold;">截止时间：下周课前提交</p>
+            `;
+        }
+    </script>
     <script src="/static/js/chat.js"></script>
 </body>
 </html>
